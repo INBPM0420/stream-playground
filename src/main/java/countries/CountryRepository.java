@@ -16,8 +16,12 @@ public class CountryRepository {
 
     private List<Country> countries;
 
-    public CountryRepository() throws IOException {
-        loadCountries(CountryRepository.class.getResourceAsStream("countries.json"));
+    public CountryRepository() {
+        try {
+            loadCountries(CountryRepository.class.getResourceAsStream("countries.json"));
+        } catch(IOException e) {
+            throw new AssertionError("Failed to load resource countries.json", e); // Can't happen
+        }
     }
 
     private void loadCountries(InputStream is) throws IOException {
