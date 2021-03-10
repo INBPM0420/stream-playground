@@ -24,7 +24,7 @@ A továbbiakban a `countries` változó értéke `Country` objektumok egy listá
 
 1. A konzolra írja az országok nevét az időzónáik száma szerint növekvő sorrendben.
 
-1. A konzolra írja minden egyes országhoz az időzónái számát _név_`: `_időzónák_ alakban az időzónák számának növekvő sorrendjében.
+1. A konzolra írja minden egyes országhoz az időzónái számát _név_`:`_időzónák_ alakban az időzónák számának növekvő sorrendjében.
 
 1. Visszaadja azoknak az országoknak a számát, melyeknek nincs spanyol neve (a spanyol nyelvet az `"es"` nyelvkód azonosítja).
 
