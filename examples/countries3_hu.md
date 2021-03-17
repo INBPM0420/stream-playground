@@ -21,6 +21,8 @@ A továbbiakban a `countries` változó értéke `Country` objektumok egy listá
 
 1. Visszaadja az ábécé sorrendbe rendezett országnevek vessző karakterekkel elválasztott listáját.
 
+1. Visszaad egy, az országkód-országnév párokat tartalmazó asszociatív tömböt.
+
 1. Visszaad egy asszociatív tömböt, mely lehetővé teszi az országok a kódjuk alapján történő hatékony elérését.
 
 1. A konzolra írja a Magyarországnál kisebb vagy egyenlő lélekszámú országok nevét és lélekszámát lélekszám szerint csökkenő sorrendben.

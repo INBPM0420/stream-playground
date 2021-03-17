@@ -21,6 +21,8 @@ Write a stream pipeline that:
 
 1. Returns a comma separated string of country names sorted alphabetically.
 
+1. Returns the map of country code-country name pairs.
+
 1. Returns the map of countries for efficient access by country code.
 
 1. Prints the names and populations of countries with population less or equal to that of Hungary in descending order of population.
