@@ -10,13 +10,14 @@
             "es": "Afganistán",
             "fr": "Afghanistan",
             "ja": "アフガニスタン",
-            "it": "Afghanistan"
+            "it": "Afghanistan",
+            "hu": "Afganisztán"
         },
         "name": "Afghanistan",
         "alpha2Code": "AF",
         "capital": "Kabul",
         "region": "Asia",
-        "population": 27657145,
+        "population": 40218234,
         "area": 652230.0,
         "timezones": [
             "UTC+04:30"
@@ -33,7 +34,8 @@
             "es": "Alandia",
             "fr": "Åland",
             "ja": "オーランド諸島",
-            "it": "Isole Aland"
+            "it": "Isole Aland",
+            "hu": "Åland-szigetek"
         },
         "name": "Åland Islands",
         "alpha2Code": "AX",
@@ -56,13 +58,14 @@
             "es": "Albania",
             "fr": "Albanie",
             "ja": "アルバニア",
-            "it": "Albania"
+            "it": "Albania",
+            "hu": "Albánia"
         },
         "name": "Albania",
         "alpha2Code": "AL",
         "capital": "Tirana",
         "region": "Europe",
-        "population": 2886026,
+        "population": 2837743,
         "area": 28748.0,
         "timezones": [
             "UTC+01:00"
@@ -79,13 +82,14 @@
             "es": "Argelia",
             "fr": "Algérie",
             "ja": "アルジェリア",
-            "it": "Algeria"
+            "it": "Algeria",
+            "hu": "Algéria"
         },
         "name": "Algeria",
         "alpha2Code": "DZ",
         "capital": "Algiers",
         "region": "Africa",
-        "population": 40400000,
+        "population": 43851043,
         "area": 2381741.0,
         "timezones": [
             "UTC+01:00"
@@ -102,13 +106,14 @@
             "es": "Samoa Americana",
             "fr": "Samoa américaines",
             "ja": "アメリカ領サモア",
-            "it": "Samoa Americane"
+            "it": "Samoa Americane",
+            "hu": "Amerikai Szamoa"
         },
         "name": "American Samoa",
         "alpha2Code": "AS",
         "capital": "Pago Pago",
         "region": "Oceania",
-        "population": 57100,
+        "population": 55197,
         "area": 199.0,
         "timezones": [
             "UTC-11:00"
@@ -125,13 +130,14 @@
             "es": "Andorra",
             "fr": "Andorre",
             "ja": "アンドラ",
-            "it": "Andorra"
+            "it": "Andorra",
+            "hu": "Andorra"
         },
         "name": "Andorra",
         "alpha2Code": "AD",
         "capital": "Andorra la Vella",
         "region": "Europe",
-        "population": 78014,
+        "population": 77265,
         "area": 468.0,
         "timezones": [
             "UTC+01:00"
@@ -148,13 +154,14 @@
             "es": "Angola",
             "fr": "Angola",
             "ja": "アンゴラ",
-            "it": "Angola"
+            "it": "Angola",
+            "hu": "Angola"
         },
         "name": "Angola",
         "alpha2Code": "AO",
         "capital": "Luanda",
         "region": "Africa",
-        "population": 25868000,
+        "population": 32866268,
         "area": 1246700.0,
         "timezones": [
             "UTC+01:00"
@@ -171,7 +178,8 @@
             "es": "Anguilla",
             "fr": "Anguilla",
             "ja": "アンギラ",
-            "it": "Anguilla"
+            "it": "Anguilla",
+            "hu": "Anguilla"
         },
         "name": "Anguilla",
         "alpha2Code": "AI",
@@ -194,7 +202,8 @@
             "es": "Antártida",
             "fr": "Antarctique",
             "ja": "南極大陸",
-            "it": "Antartide"
+            "it": "Antartide",
+            "hu": "Antarktisz"
         },
         "name": "Antarctica",
         "alpha2Code": "AQ",
@@ -224,13 +233,14 @@
             "es": "Antigua y Barbuda",
             "fr": "Antigua-et-Barbuda",
             "ja": "アンティグア・バーブーダ",
-            "it": "Antigua e Barbuda"
+            "it": "Antigua e Barbuda",
+            "hu": "Antigua és Barbuda"
         },
         "name": "Antigua and Barbuda",
         "alpha2Code": "AG",
         "capital": "Saint John's",
         "region": "Americas",
-        "population": 86295,
+        "population": 97928,
         "area": 442.0,
         "timezones": [
             "UTC-04:00"
@@ -247,13 +257,14 @@
             "es": "Argentina",
             "fr": "Argentine",
             "ja": "アルゼンチン",
-            "it": "Argentina"
+            "it": "Argentina",
+            "hu": "Argentína"
         },
         "name": "Argentina",
         "alpha2Code": "AR",
         "capital": "Buenos Aires",
         "region": "Americas",
-        "population": 43590400,
+        "population": 45376763,
         "area": 2780400.0,
         "timezones": [
             "UTC-03:00"
@@ -270,13 +281,14 @@
             "es": "Armenia",
             "fr": "Arménie",
             "ja": "アルメニア",
-            "it": "Armenia"
+            "it": "Armenia",
+            "hu": "Örményország"
         },
         "name": "Armenia",
         "alpha2Code": "AM",
         "capital": "Yerevan",
         "region": "Asia",
-        "population": 2994400,
+        "population": 2963234,
         "area": 29743.0,
         "timezones": [
             "UTC+04:00"
@@ -293,13 +305,14 @@
             "es": "Aruba",
             "fr": "Aruba",
             "ja": "アルバ",
-            "it": "Aruba"
+            "it": "Aruba",
+            "hu": "Aruba"
         },
         "name": "Aruba",
         "alpha2Code": "AW",
         "capital": "Oranjestad",
         "region": "Americas",
-        "population": 107394,
+        "population": 106766,
         "area": 180.0,
         "timezones": [
             "UTC-04:00"
@@ -316,13 +329,14 @@
             "es": "Australia",
             "fr": "Australie",
             "ja": "オーストラリア",
-            "it": "Australia"
+            "it": "Australia",
+            "hu": "Ausztrália"
         },
         "name": "Australia",
         "alpha2Code": "AU",
         "capital": "Canberra",
         "region": "Oceania",
-        "population": 24117360,
+        "population": 25687041,
         "area": 7692024.0,
         "timezones": [
             "UTC+05:00",
@@ -337,8 +351,8 @@
     },
     {
         "translations": {
-            "br": "áustria",
-            "pt": "áustria",
+            "br": "Áustria",
+            "pt": "Áustria",
             "nl": "Oostenrijk",
             "hr": "Austrija",
             "fa": "اتریش",
@@ -346,13 +360,14 @@
             "es": "Austria",
             "fr": "Autriche",
             "ja": "オーストリア",
-            "it": "Austria"
+            "it": "Austria",
+            "hu": "Ausztria"
         },
         "name": "Austria",
         "alpha2Code": "AT",
         "capital": "Vienna",
         "region": "Europe",
-        "population": 8725931,
+        "population": 8917205,
         "area": 83871.0,
         "timezones": [
             "UTC+01:00"
@@ -369,13 +384,14 @@
             "es": "Azerbaiyán",
             "fr": "Azerbaïdjan",
             "ja": "アゼルバイジャン",
-            "it": "Azerbaijan"
+            "it": "Azerbaijan",
+            "hu": "Azerbajdzsán"
         },
         "name": "Azerbaijan",
         "alpha2Code": "AZ",
         "capital": "Baku",
         "region": "Asia",
-        "population": 9730500,
+        "population": 10110116,
         "area": 86600.0,
         "timezones": [
             "UTC+04:00"
@@ -392,13 +408,14 @@
             "es": "Bahamas",
             "fr": "Bahamas",
             "ja": "バハマ",
-            "it": "Bahamas"
+            "it": "Bahamas",
+            "hu": "Bahama-szigetek"
         },
         "name": "Bahamas",
         "alpha2Code": "BS",
         "capital": "Nassau",
         "region": "Americas",
-        "population": 378040,
+        "population": 393248,
         "area": 13943.0,
         "timezones": [
             "UTC-05:00"
@@ -415,13 +432,14 @@
             "es": "Bahrein",
             "fr": "Bahreïn",
             "ja": "バーレーン",
-            "it": "Bahrein"
+            "it": "Bahrein",
+            "hu": "Bahrein"
         },
         "name": "Bahrain",
         "alpha2Code": "BH",
         "capital": "Manama",
         "region": "Asia",
-        "population": 1404900,
+        "population": 1701583,
         "area": 765.0,
         "timezones": [
             "UTC+03:00"
@@ -438,13 +456,14 @@
             "es": "Bangladesh",
             "fr": "Bangladesh",
             "ja": "バングラデシュ",
-            "it": "Bangladesh"
+            "it": "Bangladesh",
+            "hu": "Banglades"
         },
         "name": "Bangladesh",
         "alpha2Code": "BD",
         "capital": "Dhaka",
         "region": "Asia",
-        "population": 161006790,
+        "population": 164689383,
         "area": 147570.0,
         "timezones": [
             "UTC+06:00"
@@ -461,13 +480,14 @@
             "es": "Barbados",
             "fr": "Barbade",
             "ja": "バルバドス",
-            "it": "Barbados"
+            "it": "Barbados",
+            "hu": "Barbados"
         },
         "name": "Barbados",
         "alpha2Code": "BB",
         "capital": "Bridgetown",
         "region": "Americas",
-        "population": 285000,
+        "population": 287371,
         "area": 430.0,
         "timezones": [
             "UTC-04:00"
@@ -484,13 +504,14 @@
             "es": "Bielorrusia",
             "fr": "Biélorussie",
             "ja": "ベラルーシ",
-            "it": "Bielorussia"
+            "it": "Bielorussia",
+            "hu": "Fehéroroszország"
         },
         "name": "Belarus",
         "alpha2Code": "BY",
         "capital": "Minsk",
         "region": "Europe",
-        "population": 9498700,
+        "population": 9398861,
         "area": 207600.0,
         "timezones": [
             "UTC+03:00"
@@ -507,13 +528,14 @@
             "es": "Bélgica",
             "fr": "Belgique",
             "ja": "ベルギー",
-            "it": "Belgio"
+            "it": "Belgio",
+            "hu": "Belgium"
         },
         "name": "Belgium",
         "alpha2Code": "BE",
         "capital": "Brussels",
         "region": "Europe",
-        "population": 11319511,
+        "population": 11555997,
         "area": 30528.0,
         "timezones": [
             "UTC+01:00"
@@ -530,13 +552,14 @@
             "es": "Belice",
             "fr": "Belize",
             "ja": "ベリーズ",
-            "it": "Belize"
+            "it": "Belize",
+            "hu": "Belize"
         },
         "name": "Belize",
         "alpha2Code": "BZ",
         "capital": "Belmopan",
         "region": "Americas",
-        "population": 370300,
+        "population": 397621,
         "area": 22966.0,
         "timezones": [
             "UTC-06:00"
@@ -553,13 +576,14 @@
             "es": "Benín",
             "fr": "Bénin",
             "ja": "ベナン",
-            "it": "Benin"
+            "it": "Benin",
+            "hu": "Benin"
         },
         "name": "Benin",
         "alpha2Code": "BJ",
         "capital": "Porto-Novo",
         "region": "Africa",
-        "population": 10653654,
+        "population": 12123198,
         "area": 112622.0,
         "timezones": [
             "UTC+01:00"
@@ -576,13 +600,14 @@
             "es": "Bermudas",
             "fr": "Bermudes",
             "ja": "バミューダ",
-            "it": "Bermuda"
+            "it": "Bermuda",
+            "hu": "Bermuda"
         },
         "name": "Bermuda",
         "alpha2Code": "BM",
         "capital": "Hamilton",
         "region": "Americas",
-        "population": 61954,
+        "population": 63903,
         "area": 54.0,
         "timezones": [
             "UTC-04:00"
@@ -599,13 +624,14 @@
             "es": "Bután",
             "fr": "Bhoutan",
             "ja": "ブータン",
-            "it": "Bhutan"
+            "it": "Bhutan",
+            "hu": "Bhután"
         },
         "name": "Bhutan",
         "alpha2Code": "BT",
         "capital": "Thimphu",
         "region": "Asia",
-        "population": 775620,
+        "population": 771612,
         "area": 38394.0,
         "timezones": [
             "UTC+06:00"
@@ -622,13 +648,14 @@
             "es": "Bolivia",
             "fr": "Bolivie",
             "ja": "ボリビア多民族国",
-            "it": "Bolivia"
+            "it": "Bolivia",
+            "hu": "Bolívia"
         },
         "name": "Bolivia (Plurinational State of)",
         "alpha2Code": "BO",
         "capital": "Sucre",
         "region": "Americas",
-        "population": 10985059,
+        "population": 11673029,
         "area": 1098581.0,
         "timezones": [
             "UTC-04:00"
@@ -638,10 +665,15 @@
         "translations": {
             "br": "Bonaire",
             "pt": "Bonaire",
+            "nl": "Caribisch Nederland",
+            "hr": "Bonaire, Sint Eustatius and Saba",
             "fa": "بونیر",
             "de": "Bonaire, Sint Eustatius und Saba",
+            "es": "Bonaire, Sint Eustatius and Saba",
             "fr": "Bonaire, Saint-Eustache et Saba",
-            "it": "Bonaire, Saint-Eustache e Saba"
+            "ja": "Bonaire, Sint Eustatius and Saba",
+            "it": "Bonaire, Saint-Eustache e Saba",
+            "hu": "Bonaire"
         },
         "name": "Bonaire, Sint Eustatius and Saba",
         "alpha2Code": "BQ",
@@ -664,13 +696,14 @@
             "es": "Bosnia y Herzegovina",
             "fr": "Bosnie-Herzégovine",
             "ja": "ボスニア・ヘルツェゴビナ",
-            "it": "Bosnia ed Erzegovina"
+            "it": "Bosnia ed Erzegovina",
+            "hu": "Bosznia-Hercegovina"
         },
         "name": "Bosnia and Herzegovina",
         "alpha2Code": "BA",
         "capital": "Sarajevo",
         "region": "Europe",
-        "population": 3531159,
+        "population": 3280815,
         "area": 51209.0,
         "timezones": [
             "UTC+01:00"
@@ -687,13 +720,14 @@
             "es": "Botswana",
             "fr": "Botswana",
             "ja": "ボツワナ",
-            "it": "Botswana"
+            "it": "Botswana",
+            "hu": "Botswana"
         },
         "name": "Botswana",
         "alpha2Code": "BW",
         "capital": "Gaborone",
         "region": "Africa",
-        "population": 2141206,
+        "population": 2351625,
         "area": 582000.0,
         "timezones": [
             "UTC+02:00"
@@ -710,12 +744,13 @@
             "es": "Isla Bouvet",
             "fr": "Île Bouvet",
             "ja": "ブーベ島",
-            "it": "Isola Bouvet"
+            "it": "Isola Bouvet",
+            "hu": "Bouvet-sziget"
         },
         "name": "Bouvet Island",
         "alpha2Code": "BV",
         "capital": "",
-        "region": "",
+        "region": "Antarctic Ocean",
         "population": 0,
         "area": 49.0,
         "timezones": [
@@ -733,13 +768,14 @@
             "es": "Brasil",
             "fr": "Brésil",
             "ja": "ブラジル",
-            "it": "Brasile"
+            "it": "Brasile",
+            "hu": "Brazília"
         },
         "name": "Brazil",
         "alpha2Code": "BR",
         "capital": "Brasília",
         "region": "Americas",
-        "population": 206135893,
+        "population": 212559409,
         "area": 8515767.0,
         "timezones": [
             "UTC-05:00",
@@ -759,7 +795,8 @@
             "es": "Territorio Británico del Océano Índico",
             "fr": "Territoire britannique de l'océan Indien",
             "ja": "イギリス領インド洋地域",
-            "it": "Territorio britannico dell'oceano indiano"
+            "it": "Territorio britannico dell'oceano indiano",
+            "hu": "Brit Indiai-óceáni Terület"
         },
         "name": "British Indian Ocean Territory",
         "alpha2Code": "IO",
@@ -782,7 +819,8 @@
             "es": "Islas Ultramarinas Menores de Estados Unidos",
             "fr": "Îles mineures éloignées des États-Unis",
             "ja": "合衆国領有小離島",
-            "it": "Isole minori esterne degli Stati Uniti d'America"
+            "it": "Isole minori esterne degli Stati Uniti d'America",
+            "hu": "Amerikai Egyesült Államok lakatlan külbirtokai"
         },
         "name": "United States Minor Outlying Islands",
         "alpha2Code": "UM",
@@ -806,13 +844,14 @@
             "es": "Islas Vírgenes del Reino Unido",
             "fr": "Îles Vierges britanniques",
             "ja": "イギリス領ヴァージン諸島",
-            "it": "Isole Vergini Britanniche"
+            "it": "Isole Vergini Britanniche",
+            "hu": "Brit Virgin-szigetek"
         },
         "name": "Virgin Islands (British)",
         "alpha2Code": "VG",
         "capital": "Road Town",
         "region": "Americas",
-        "population": 28514,
+        "population": 30237,
         "area": 151.0,
         "timezones": [
             "UTC-04:00"
@@ -823,18 +862,20 @@
             "br": "Ilhas Virgens Americanas",
             "pt": "Ilhas Virgens Americanas",
             "nl": "Verenigde Staten Maagdeneilanden",
+            "hr": "Virgin Islands (U.S.)",
             "fa": "جزایر ویرجین آمریکا",
             "de": "Amerikanische Jungferninseln",
             "es": "Islas Vírgenes de los Estados Unidos",
             "fr": "Îles Vierges des États-Unis",
             "ja": "アメリカ領ヴァージン諸島",
-            "it": "Isole Vergini americane"
+            "it": "Isole Vergini americane",
+            "hu": "Amerikai Virgin-szigetek"
         },
         "name": "Virgin Islands (U.S.)",
         "alpha2Code": "VI",
         "capital": "Charlotte Amalie",
         "region": "Americas",
-        "population": 114743,
+        "population": 106290,
         "area": 346.36,
         "timezones": [
             "UTC-04:00"
@@ -851,13 +892,14 @@
             "es": "Brunei",
             "fr": "Brunei",
             "ja": "ブルネイ・ダルサラーム",
-            "it": "Brunei"
+            "it": "Brunei",
+            "hu": "Brunei"
         },
         "name": "Brunei Darussalam",
         "alpha2Code": "BN",
         "capital": "Bandar Seri Begawan",
         "region": "Asia",
-        "population": 411900,
+        "population": 437483,
         "area": 5765.0,
         "timezones": [
             "UTC+08:00"
@@ -874,13 +916,14 @@
             "es": "Bulgaria",
             "fr": "Bulgarie",
             "ja": "ブルガリア",
-            "it": "Bulgaria"
+            "it": "Bulgaria",
+            "hu": "Bulgária"
         },
         "name": "Bulgaria",
         "alpha2Code": "BG",
         "capital": "Sofia",
         "region": "Europe",
-        "population": 7153784,
+        "population": 6927288,
         "area": 110879.0,
         "timezones": [
             "UTC+02:00"
@@ -897,13 +940,14 @@
             "es": "Burkina Faso",
             "fr": "Burkina Faso",
             "ja": "ブルキナファソ",
-            "it": "Burkina Faso"
+            "it": "Burkina Faso",
+            "hu": "Burkina Faso"
         },
         "name": "Burkina Faso",
         "alpha2Code": "BF",
         "capital": "Ouagadougou",
         "region": "Africa",
-        "population": 19034397,
+        "population": 20903278,
         "area": 272967.0,
         "timezones": [
             "UTC"
@@ -920,13 +964,14 @@
             "es": "Burundi",
             "fr": "Burundi",
             "ja": "ブルンジ",
-            "it": "Burundi"
+            "it": "Burundi",
+            "hu": "Burundi"
         },
         "name": "Burundi",
         "alpha2Code": "BI",
-        "capital": "Bujumbura",
+        "capital": "Gitega",
         "region": "Africa",
-        "population": 10114505,
+        "population": 11890781,
         "area": 27834.0,
         "timezones": [
             "UTC+02:00"
@@ -943,13 +988,14 @@
             "es": "Camboya",
             "fr": "Cambodge",
             "ja": "カンボジア",
-            "it": "Cambogia"
+            "it": "Cambogia",
+            "hu": "Kambodzsa"
         },
         "name": "Cambodia",
         "alpha2Code": "KH",
         "capital": "Phnom Penh",
         "region": "Asia",
-        "population": 15626444,
+        "population": 16718971,
         "area": 181035.0,
         "timezones": [
             "UTC+07:00"
@@ -966,13 +1012,14 @@
             "es": "Camerún",
             "fr": "Cameroun",
             "ja": "カメルーン",
-            "it": "Camerun"
+            "it": "Camerun",
+            "hu": "Kamerun"
         },
         "name": "Cameroon",
         "alpha2Code": "CM",
         "capital": "Yaoundé",
         "region": "Africa",
-        "population": 22709892,
+        "population": 26545864,
         "area": 475442.0,
         "timezones": [
             "UTC+01:00"
@@ -989,13 +1036,14 @@
             "es": "Canadá",
             "fr": "Canada",
             "ja": "カナダ",
-            "it": "Canada"
+            "it": "Canada",
+            "hu": "Kanada"
         },
         "name": "Canada",
         "alpha2Code": "CA",
         "capital": "Ottawa",
         "region": "Americas",
-        "population": 36155487,
+        "population": 38005238,
         "area": 9984670.0,
         "timezones": [
             "UTC-08:00",
@@ -1017,13 +1065,14 @@
             "es": "Cabo Verde",
             "fr": "Cap Vert",
             "ja": "カーボベルデ",
-            "it": "Capo Verde"
+            "it": "Capo Verde",
+            "hu": "Zöld-foki Köztársaság"
         },
         "name": "Cabo Verde",
         "alpha2Code": "CV",
         "capital": "Praia",
         "region": "Africa",
-        "population": 531239,
+        "population": 555988,
         "area": 4033.0,
         "timezones": [
             "UTC-01:00"
@@ -1040,13 +1089,14 @@
             "es": "Islas Caimán",
             "fr": "Îles Caïmans",
             "ja": "ケイマン諸島",
-            "it": "Isole Cayman"
+            "it": "Isole Cayman",
+            "hu": "Kajmán-szigetek"
         },
         "name": "Cayman Islands",
         "alpha2Code": "KY",
         "capital": "George Town",
         "region": "Americas",
-        "population": 58238,
+        "population": 65720,
         "area": 264.0,
         "timezones": [
             "UTC-05:00"
@@ -1063,13 +1113,14 @@
             "es": "República Centroafricana",
             "fr": "République centrafricaine",
             "ja": "中央アフリカ共和国",
-            "it": "Repubblica Centrafricana"
+            "it": "Repubblica Centrafricana",
+            "hu": "Közép-afrikai Köztársaság"
         },
         "name": "Central African Republic",
         "alpha2Code": "CF",
         "capital": "Bangui",
         "region": "Africa",
-        "population": 4998000,
+        "population": 4829764,
         "area": 622984.0,
         "timezones": [
             "UTC+01:00"
@@ -1086,13 +1137,14 @@
             "es": "Chad",
             "fr": "Tchad",
             "ja": "チャド",
-            "it": "Ciad"
+            "it": "Ciad",
+            "hu": "Csád"
         },
         "name": "Chad",
         "alpha2Code": "TD",
         "capital": "N'Djamena",
         "region": "Africa",
-        "population": 14497000,
+        "population": 16425859,
         "area": 1284000.0,
         "timezones": [
             "UTC+01:00"
@@ -1109,13 +1161,14 @@
             "es": "Chile",
             "fr": "Chili",
             "ja": "チリ",
-            "it": "Cile"
+            "it": "Cile",
+            "hu": "Chile"
         },
         "name": "Chile",
         "alpha2Code": "CL",
         "capital": "Santiago",
         "region": "Americas",
-        "population": 18191900,
+        "population": 19116209,
         "area": 756102.0,
         "timezones": [
             "UTC-06:00",
@@ -1133,13 +1186,14 @@
             "es": "China",
             "fr": "Chine",
             "ja": "中国",
-            "it": "Cina"
+            "it": "Cina",
+            "hu": "Kína"
         },
         "name": "China",
         "alpha2Code": "CN",
         "capital": "Beijing",
         "region": "Asia",
-        "population": 1377422166,
+        "population": 1402112000,
         "area": 9640011.0,
         "timezones": [
             "UTC+08:00"
@@ -1156,7 +1210,8 @@
             "es": "Isla de Navidad",
             "fr": "Île Christmas",
             "ja": "クリスマス島",
-            "it": "Isola di Natale"
+            "it": "Isola di Natale",
+            "hu": "Karácsony-sziget"
         },
         "name": "Christmas Island",
         "alpha2Code": "CX",
@@ -1179,7 +1234,8 @@
             "es": "Islas Cocos o Islas Keeling",
             "fr": "Îles Cocos",
             "ja": "ココス（キーリング）諸島",
-            "it": "Isole Cocos e Keeling"
+            "it": "Isole Cocos e Keeling",
+            "hu": "Kókusz-szigetek"
         },
         "name": "Cocos (Keeling) Islands",
         "alpha2Code": "CC",
@@ -1202,13 +1258,14 @@
             "es": "Colombia",
             "fr": "Colombie",
             "ja": "コロンビア",
-            "it": "Colombia"
+            "it": "Colombia",
+            "hu": "Kolumbia"
         },
         "name": "Colombia",
         "alpha2Code": "CO",
         "capital": "Bogotá",
         "region": "Americas",
-        "population": 48759958,
+        "population": 50882884,
         "area": 1141748.0,
         "timezones": [
             "UTC-05:00"
@@ -1225,13 +1282,14 @@
             "es": "Comoras",
             "fr": "Comores",
             "ja": "コモロ",
-            "it": "Comore"
+            "it": "Comore",
+            "hu": "Comore-szigetek"
         },
         "name": "Comoros",
         "alpha2Code": "KM",
         "capital": "Moroni",
         "region": "Africa",
-        "population": 806153,
+        "population": 869595,
         "area": 1862.0,
         "timezones": [
             "UTC+03:00"
@@ -1248,13 +1306,14 @@
             "es": "Congo",
             "fr": "Congo",
             "ja": "コンゴ共和国",
-            "it": "Congo"
+            "it": "Congo",
+            "hu": "Kongói Köztársaság"
         },
         "name": "Congo",
         "alpha2Code": "CG",
         "capital": "Brazzaville",
         "region": "Africa",
-        "population": 4741000,
+        "population": 5518092,
         "area": 342000.0,
         "timezones": [
             "UTC+01:00"
@@ -1271,13 +1330,14 @@
             "es": "Congo (Rep. Dem.)",
             "fr": "Congo (Rép. dém.)",
             "ja": "コンゴ民主共和国",
-            "it": "Congo (Rep. Dem.)"
+            "it": "Congo (Rep. Dem.)",
+            "hu": "Kongói Demokratikus Köztársaság"
         },
         "name": "Congo (Democratic Republic of the)",
         "alpha2Code": "CD",
         "capital": "Kinshasa",
         "region": "Africa",
-        "population": 85026000,
+        "population": 89561404,
         "area": 2344858.0,
         "timezones": [
             "UTC+01:00",
@@ -1295,7 +1355,8 @@
             "es": "Islas Cook",
             "fr": "Îles Cook",
             "ja": "クック諸島",
-            "it": "Isole Cook"
+            "it": "Isole Cook",
+            "hu": "Cook-szigetek"
         },
         "name": "Cook Islands",
         "alpha2Code": "CK",
@@ -1318,13 +1379,14 @@
             "es": "Costa Rica",
             "fr": "Costa Rica",
             "ja": "コスタリカ",
-            "it": "Costa Rica"
+            "it": "Costa Rica",
+            "hu": "Costa Rica"
         },
         "name": "Costa Rica",
         "alpha2Code": "CR",
         "capital": "San José",
         "region": "Americas",
-        "population": 4890379,
+        "population": 5094114,
         "area": 51100.0,
         "timezones": [
             "UTC-06:00"
@@ -1341,13 +1403,14 @@
             "es": "Croacia",
             "fr": "Croatie",
             "ja": "クロアチア",
-            "it": "Croazia"
+            "it": "Croazia",
+            "hu": "Horvátország"
         },
         "name": "Croatia",
         "alpha2Code": "HR",
         "capital": "Zagreb",
         "region": "Europe",
-        "population": 4190669,
+        "population": 4047200,
         "area": 56594.0,
         "timezones": [
             "UTC+01:00"
@@ -1364,13 +1427,14 @@
             "es": "Cuba",
             "fr": "Cuba",
             "ja": "キューバ",
-            "it": "Cuba"
+            "it": "Cuba",
+            "hu": "Kuba"
         },
         "name": "Cuba",
         "alpha2Code": "CU",
         "capital": "Havana",
         "region": "Americas",
-        "population": 11239004,
+        "population": 11326616,
         "area": 109884.0,
         "timezones": [
             "UTC-05:00"
@@ -1381,16 +1445,20 @@
             "br": "Curaçao",
             "pt": "Curaçao",
             "nl": "Curaçao",
+            "hr": "Curaçao",
             "fa": "کوراسائو",
             "de": "Curaçao",
+            "es": "Curaçao",
             "fr": "Curaçao",
-            "it": "Curaçao"
+            "ja": "Curaçao",
+            "it": "Curaçao",
+            "hu": "Curaçao"
         },
         "name": "Curaçao",
         "alpha2Code": "CW",
         "capital": "Willemstad",
         "region": "Americas",
-        "population": 154843,
+        "population": 155014,
         "area": 444.0,
         "timezones": [
             "UTC-04:00"
@@ -1407,13 +1475,14 @@
             "es": "Chipre",
             "fr": "Chypre",
             "ja": "キプロス",
-            "it": "Cipro"
+            "it": "Cipro",
+            "hu": "Ciprus"
         },
         "name": "Cyprus",
         "alpha2Code": "CY",
         "capital": "Nicosia",
         "region": "Europe",
-        "population": 847000,
+        "population": 1207361,
         "area": 9251.0,
         "timezones": [
             "UTC+02:00"
@@ -1430,13 +1499,14 @@
             "es": "República Checa",
             "fr": "République tchèque",
             "ja": "チェコ",
-            "it": "Repubblica Ceca"
+            "it": "Repubblica Ceca",
+            "hu": "Csehország"
         },
         "name": "Czech Republic",
         "alpha2Code": "CZ",
         "capital": "Prague",
         "region": "Europe",
-        "population": 10558524,
+        "population": 10698896,
         "area": 78865.0,
         "timezones": [
             "UTC+01:00"
@@ -1453,13 +1523,14 @@
             "es": "Dinamarca",
             "fr": "Danemark",
             "ja": "デンマーク",
-            "it": "Danimarca"
+            "it": "Danimarca",
+            "hu": "Dánia"
         },
         "name": "Denmark",
         "alpha2Code": "DK",
         "capital": "Copenhagen",
         "region": "Europe",
-        "population": 5717014,
+        "population": 5831404,
         "area": 43094.0,
         "timezones": [
             "UTC-04:00",
@@ -1480,13 +1551,14 @@
             "es": "Yibuti",
             "fr": "Djibouti",
             "ja": "ジブチ",
-            "it": "Gibuti"
+            "it": "Gibuti",
+            "hu": "Dzsibuti"
         },
         "name": "Djibouti",
         "alpha2Code": "DJ",
         "capital": "Djibouti",
         "region": "Africa",
-        "population": 900000,
+        "population": 988002,
         "area": 23200.0,
         "timezones": [
             "UTC+03:00"
@@ -1503,13 +1575,14 @@
             "es": "Dominica",
             "fr": "Dominique",
             "ja": "ドミニカ国",
-            "it": "Dominica"
+            "it": "Dominica",
+            "hu": "Dominikai Közösség"
         },
         "name": "Dominica",
         "alpha2Code": "DM",
         "capital": "Roseau",
         "region": "Americas",
-        "population": 71293,
+        "population": 71991,
         "area": 751.0,
         "timezones": [
             "UTC-04:00"
@@ -1526,13 +1599,14 @@
             "es": "República Dominicana",
             "fr": "République dominicaine",
             "ja": "ドミニカ共和国",
-            "it": "Repubblica Dominicana"
+            "it": "Repubblica Dominicana",
+            "hu": "Dominikai Köztársaság"
         },
         "name": "Dominican Republic",
         "alpha2Code": "DO",
         "capital": "Santo Domingo",
         "region": "Americas",
-        "population": 10075045,
+        "population": 10847904,
         "area": 48671.0,
         "timezones": [
             "UTC-04:00"
@@ -1549,13 +1623,14 @@
             "es": "Ecuador",
             "fr": "Équateur",
             "ja": "エクアドル",
-            "it": "Ecuador"
+            "it": "Ecuador",
+            "hu": "Ecuador"
         },
         "name": "Ecuador",
         "alpha2Code": "EC",
         "capital": "Quito",
         "region": "Americas",
-        "population": 16545799,
+        "population": 17643060,
         "area": 276841.0,
         "timezones": [
             "UTC-06:00",
@@ -1573,13 +1648,14 @@
             "es": "Egipto",
             "fr": "Égypte",
             "ja": "エジプト",
-            "it": "Egitto"
+            "it": "Egitto",
+            "hu": "Egyiptom"
         },
         "name": "Egypt",
         "alpha2Code": "EG",
         "capital": "Cairo",
         "region": "Africa",
-        "population": 91290000,
+        "population": 102334403,
         "area": 1002450.0,
         "timezones": [
             "UTC+02:00"
@@ -1596,13 +1672,14 @@
             "es": "El Salvador",
             "fr": "Salvador",
             "ja": "エルサルバドル",
-            "it": "El Salvador"
+            "it": "El Salvador",
+            "hu": "Salvador"
         },
         "name": "El Salvador",
         "alpha2Code": "SV",
         "capital": "San Salvador",
         "region": "Americas",
-        "population": 6520675,
+        "population": 6486201,
         "area": 21041.0,
         "timezones": [
             "UTC-06:00"
@@ -1619,13 +1696,14 @@
             "es": "Guinea Ecuatorial",
             "fr": "Guinée-Équatoriale",
             "ja": "赤道ギニア",
-            "it": "Guinea Equatoriale"
+            "it": "Guinea Equatoriale",
+            "hu": "Egyenlítői-Guinea"
         },
         "name": "Equatorial Guinea",
         "alpha2Code": "GQ",
         "capital": "Malabo",
         "region": "Africa",
-        "population": 1222442,
+        "population": 1402985,
         "area": 28051.0,
         "timezones": [
             "UTC+01:00"
@@ -1642,7 +1720,8 @@
             "es": "Eritrea",
             "fr": "Érythrée",
             "ja": "エリトリア",
-            "it": "Eritrea"
+            "it": "Eritrea",
+            "hu": "Eritrea"
         },
         "name": "Eritrea",
         "alpha2Code": "ER",
@@ -1665,13 +1744,14 @@
             "es": "Estonia",
             "fr": "Estonie",
             "ja": "エストニア",
-            "it": "Estonia"
+            "it": "Estonia",
+            "hu": "Észtország"
         },
         "name": "Estonia",
         "alpha2Code": "EE",
         "capital": "Tallinn",
         "region": "Europe",
-        "population": 1315944,
+        "population": 1331057,
         "area": 45227.0,
         "timezones": [
             "UTC+02:00"
@@ -1688,13 +1768,14 @@
             "es": "Etiopía",
             "fr": "Éthiopie",
             "ja": "エチオピア",
-            "it": "Etiopia"
+            "it": "Etiopia",
+            "hu": "Etiópia"
         },
         "name": "Ethiopia",
         "alpha2Code": "ET",
         "capital": "Addis Ababa",
         "region": "Africa",
-        "population": 92206005,
+        "population": 114963583,
         "area": 1104300.0,
         "timezones": [
             "UTC+03:00"
@@ -1711,7 +1792,8 @@
             "es": "Islas Malvinas",
             "fr": "Îles Malouines",
             "ja": "フォークランド（マルビナス）諸島",
-            "it": "Isole Falkland o Isole Malvine"
+            "it": "Isole Falkland o Isole Malvine",
+            "hu": "Falkland-szigetek"
         },
         "name": "Falkland Islands (Malvinas)",
         "alpha2Code": "FK",
@@ -1734,13 +1816,14 @@
             "es": "Islas Faroe",
             "fr": "Îles Féroé",
             "ja": "フェロー諸島",
-            "it": "Isole Far Oer"
+            "it": "Isole Far Oer",
+            "hu": "Feröer"
         },
         "name": "Faroe Islands",
         "alpha2Code": "FO",
         "capital": "Tórshavn",
         "region": "Europe",
-        "population": 49376,
+        "population": 48865,
         "area": 1393.0,
         "timezones": [
             "UTC+00:00"
@@ -1757,13 +1840,14 @@
             "es": "Fiyi",
             "fr": "Fidji",
             "ja": "フィジー",
-            "it": "Figi"
+            "it": "Figi",
+            "hu": "Fidzsi-szigetek"
         },
         "name": "Fiji",
         "alpha2Code": "FJ",
         "capital": "Suva",
         "region": "Oceania",
-        "population": 867000,
+        "population": 896444,
         "area": 18272.0,
         "timezones": [
             "UTC+12:00"
@@ -1780,13 +1864,14 @@
             "es": "Finlandia",
             "fr": "Finlande",
             "ja": "フィンランド",
-            "it": "Finlandia"
+            "it": "Finlandia",
+            "hu": "Finnország"
         },
         "name": "Finland",
         "alpha2Code": "FI",
         "capital": "Helsinki",
         "region": "Europe",
-        "population": 5491817,
+        "population": 5530719,
         "area": 338424.0,
         "timezones": [
             "UTC+02:00"
@@ -1803,13 +1888,14 @@
             "es": "Francia",
             "fr": "France",
             "ja": "フランス",
-            "it": "Francia"
+            "it": "Francia",
+            "hu": "Franciaország"
         },
         "name": "France",
         "alpha2Code": "FR",
         "capital": "Paris",
         "region": "Europe",
-        "population": 66710000,
+        "population": 67391582,
         "area": 640679.0,
         "timezones": [
             "UTC-10:00",
@@ -1819,9 +1905,11 @@
             "UTC-04:00",
             "UTC-03:00",
             "UTC+01:00",
+            "UTC+02:00",
             "UTC+03:00",
             "UTC+04:00",
             "UTC+05:00",
+            "UTC+10:00",
             "UTC+11:00",
             "UTC+12:00"
         ]
@@ -1837,7 +1925,8 @@
             "es": "Guayana Francesa",
             "fr": "Guayane",
             "ja": "フランス領ギアナ",
-            "it": "Guyana francese"
+            "it": "Guyana francese",
+            "hu": "Francia Guyana"
         },
         "name": "French Guiana",
         "alpha2Code": "GF",
@@ -1859,13 +1948,14 @@
             "es": "Polinesia Francesa",
             "fr": "Polynésie française",
             "ja": "フランス領ポリネシア",
-            "it": "Polinesia Francese"
+            "it": "Polinesia Francese",
+            "hu": "Francia Polinézia"
         },
         "name": "French Polynesia",
         "alpha2Code": "PF",
         "capital": "Papeetē",
         "region": "Oceania",
-        "population": 271800,
+        "population": 280904,
         "area": 4167.0,
         "timezones": [
             "UTC-10:00",
@@ -1884,7 +1974,8 @@
             "es": "Tierras Australes y Antárticas Francesas",
             "fr": "Terres australes et antarctiques françaises",
             "ja": "フランス領南方・南極地域",
-            "it": "Territori Francesi del Sud"
+            "it": "Territori Francesi del Sud",
+            "hu": "Francia déli és antarktiszi területek"
         },
         "name": "French Southern Territories",
         "alpha2Code": "TF",
@@ -1907,13 +1998,14 @@
             "es": "Gabón",
             "fr": "Gabon",
             "ja": "ガボン",
-            "it": "Gabon"
+            "it": "Gabon",
+            "hu": "Gabon"
         },
         "name": "Gabon",
         "alpha2Code": "GA",
         "capital": "Libreville",
         "region": "Africa",
-        "population": 1802278,
+        "population": 2225728,
         "area": 267668.0,
         "timezones": [
             "UTC+01:00"
@@ -1930,13 +2022,14 @@
             "es": "Gambia",
             "fr": "Gambie",
             "ja": "ガンビア",
-            "it": "Gambia"
+            "it": "Gambia",
+            "hu": "Gambia"
         },
         "name": "Gambia",
         "alpha2Code": "GM",
         "capital": "Banjul",
         "region": "Africa",
-        "population": 1882450,
+        "population": 2416664,
         "area": 11295.0,
         "timezones": [
             "UTC+00:00"
@@ -1953,16 +2046,17 @@
             "es": "Georgia",
             "fr": "Géorgie",
             "ja": "グルジア",
-            "it": "Georgia"
+            "it": "Georgia",
+            "hu": "Grúzia"
         },
         "name": "Georgia",
         "alpha2Code": "GE",
         "capital": "Tbilisi",
         "region": "Asia",
-        "population": 3720400,
+        "population": 3714000,
         "area": 69700.0,
         "timezones": [
-            "UTC-05:00"
+            "UTC-04:00"
         ]
     },
     {
@@ -1976,13 +2070,14 @@
             "es": "Alemania",
             "fr": "Allemagne",
             "ja": "ドイツ",
-            "it": "Germania"
+            "it": "Germania",
+            "hu": "Németország"
         },
         "name": "Germany",
         "alpha2Code": "DE",
         "capital": "Berlin",
         "region": "Europe",
-        "population": 81770900,
+        "population": 83240525,
         "area": 357114.0,
         "timezones": [
             "UTC+01:00"
@@ -1999,13 +2094,14 @@
             "es": "Ghana",
             "fr": "Ghana",
             "ja": "ガーナ",
-            "it": "Ghana"
+            "it": "Ghana",
+            "hu": "Ghána"
         },
         "name": "Ghana",
         "alpha2Code": "GH",
         "capital": "Accra",
         "region": "Africa",
-        "population": 27670174,
+        "population": 31072945,
         "area": 238533.0,
         "timezones": [
             "UTC"
@@ -2022,13 +2118,14 @@
             "es": "Gibraltar",
             "fr": "Gibraltar",
             "ja": "ジブラルタル",
-            "it": "Gibilterra"
+            "it": "Gibilterra",
+            "hu": "Gibraltár"
         },
         "name": "Gibraltar",
         "alpha2Code": "GI",
         "capital": "Gibraltar",
         "region": "Europe",
-        "population": 33140,
+        "population": 33691,
         "area": 6.0,
         "timezones": [
             "UTC+01:00"
@@ -2045,13 +2142,14 @@
             "es": "Grecia",
             "fr": "Grèce",
             "ja": "ギリシャ",
-            "it": "Grecia"
+            "it": "Grecia",
+            "hu": "Görögország"
         },
         "name": "Greece",
         "alpha2Code": "GR",
         "capital": "Athens",
         "region": "Europe",
-        "population": 10858018,
+        "population": 10715549,
         "area": 131990.0,
         "timezones": [
             "UTC+02:00"
@@ -2068,13 +2166,14 @@
             "es": "Groenlandia",
             "fr": "Groenland",
             "ja": "グリーンランド",
-            "it": "Groenlandia"
+            "it": "Groenlandia",
+            "hu": "Grönland"
         },
         "name": "Greenland",
         "alpha2Code": "GL",
         "capital": "Nuuk",
         "region": "Americas",
-        "population": 55847,
+        "population": 56367,
         "area": 2166086.0,
         "timezones": [
             "UTC-04:00",
@@ -2094,13 +2193,14 @@
             "es": "Grenada",
             "fr": "Grenade",
             "ja": "グレナダ",
-            "it": "Grenada"
+            "it": "Grenada",
+            "hu": "Grenada"
         },
         "name": "Grenada",
         "alpha2Code": "GD",
         "capital": "St. George's",
         "region": "Americas",
-        "population": 103328,
+        "population": 112519,
         "area": 344.0,
         "timezones": [
             "UTC-04:00"
@@ -2117,7 +2217,8 @@
             "es": "Guadalupe",
             "fr": "Guadeloupe",
             "ja": "グアドループ",
-            "it": "Guadeloupa"
+            "it": "Guadeloupa",
+            "hu": "Guadeloupe"
         },
         "name": "Guadeloupe",
         "alpha2Code": "GP",
@@ -2139,13 +2240,14 @@
             "es": "Guam",
             "fr": "Guam",
             "ja": "グアム",
-            "it": "Guam"
+            "it": "Guam",
+            "hu": "Guam"
         },
         "name": "Guam",
         "alpha2Code": "GU",
         "capital": "Hagåtña",
         "region": "Oceania",
-        "population": 184200,
+        "population": 168783,
         "area": 549.0,
         "timezones": [
             "UTC+10:00"
@@ -2162,13 +2264,14 @@
             "es": "Guatemala",
             "fr": "Guatemala",
             "ja": "グアテマラ",
-            "it": "Guatemala"
+            "it": "Guatemala",
+            "hu": "Guatemala"
         },
         "name": "Guatemala",
         "alpha2Code": "GT",
         "capital": "Guatemala City",
         "region": "Americas",
-        "population": 16176133,
+        "population": 16858333,
         "area": 108889.0,
         "timezones": [
             "UTC-06:00"
@@ -2185,7 +2288,8 @@
             "es": "Guernsey",
             "fr": "Guernesey",
             "ja": "ガーンジー",
-            "it": "Guernsey"
+            "it": "Guernsey",
+            "hu": "Guernsey"
         },
         "name": "Guernsey",
         "alpha2Code": "GG",
@@ -2208,13 +2312,14 @@
             "es": "Guinea",
             "fr": "Guinée",
             "ja": "ギニア",
-            "it": "Guinea"
+            "it": "Guinea",
+            "hu": "Guinea"
         },
         "name": "Guinea",
         "alpha2Code": "GN",
         "capital": "Conakry",
         "region": "Africa",
-        "population": 12947000,
+        "population": 13132792,
         "area": 245857.0,
         "timezones": [
             "UTC"
@@ -2231,13 +2336,14 @@
             "es": "Guinea-Bisáu",
             "fr": "Guinée-Bissau",
             "ja": "ギニアビサウ",
-            "it": "Guinea-Bissau"
+            "it": "Guinea-Bissau",
+            "hu": "Bissau-Guinea"
         },
         "name": "Guinea-Bissau",
         "alpha2Code": "GW",
         "capital": "Bissau",
         "region": "Africa",
-        "population": 1547777,
+        "population": 1967998,
         "area": 36125.0,
         "timezones": [
             "UTC"
@@ -2254,13 +2360,14 @@
             "es": "Guyana",
             "fr": "Guyane",
             "ja": "ガイアナ",
-            "it": "Guyana"
+            "it": "Guyana",
+            "hu": "Guyana"
         },
         "name": "Guyana",
         "alpha2Code": "GY",
         "capital": "Georgetown",
         "region": "Americas",
-        "population": 746900,
+        "population": 786559,
         "area": 214969.0,
         "timezones": [
             "UTC-04:00"
@@ -2277,13 +2384,14 @@
             "es": "Haiti",
             "fr": "Haïti",
             "ja": "ハイチ",
-            "it": "Haiti"
+            "it": "Haiti",
+            "hu": "Haiti"
         },
         "name": "Haiti",
         "alpha2Code": "HT",
         "capital": "Port-au-Prince",
         "region": "Americas",
-        "population": 11078033,
+        "population": 11402533,
         "area": 27750.0,
         "timezones": [
             "UTC-05:00"
@@ -2300,12 +2408,13 @@
             "es": "Islas Heard y McDonald",
             "fr": "Îles Heard-et-MacDonald",
             "ja": "ハード島とマクドナルド諸島",
-            "it": "Isole Heard e McDonald"
+            "it": "Isole Heard e McDonald",
+            "hu": "Heard-sziget és McDonald-szigetek"
         },
         "name": "Heard Island and McDonald Islands",
         "alpha2Code": "HM",
         "capital": "",
-        "region": "",
+        "region": "Antarctic",
         "population": 0,
         "area": 412.0,
         "timezones": [
@@ -2321,13 +2430,14 @@
             "fa": "سریر مقدس",
             "de": "Heiliger Stuhl",
             "es": "Santa Sede",
-            "fr": "voir Saint",
+            "fr": "Saint-Siège",
             "ja": "聖座",
-            "it": "Santa Sede"
+            "it": "Santa Sede",
+            "hu": "Vatikán"
         },
-        "name": "Holy See",
+        "name": "Vatican City",
         "alpha2Code": "VA",
-        "capital": "Rome",
+        "capital": "Vatican City",
         "region": "Europe",
         "population": 451,
         "area": 0.44,
@@ -2346,39 +2456,17 @@
             "es": "Honduras",
             "fr": "Honduras",
             "ja": "ホンジュラス",
-            "it": "Honduras"
+            "it": "Honduras",
+            "hu": "Honduras"
         },
         "name": "Honduras",
         "alpha2Code": "HN",
         "capital": "Tegucigalpa",
         "region": "Americas",
-        "population": 8576532,
+        "population": 9904608,
         "area": 112492.0,
         "timezones": [
             "UTC-06:00"
-        ]
-    },
-    {
-        "translations": {
-            "br": "Hong Kong",
-            "pt": "Hong Kong",
-            "nl": "Hongkong",
-            "hr": "Hong Kong",
-            "fa": "هنگ‌کنگ",
-            "de": "Hong Kong",
-            "es": "Hong Kong",
-            "fr": "Hong Kong",
-            "ja": "香港",
-            "it": "Hong Kong"
-        },
-        "name": "Hong Kong",
-        "alpha2Code": "HK",
-        "capital": "City of Victoria",
-        "region": "Asia",
-        "population": 7324300,
-        "area": 1104.0,
-        "timezones": [
-            "UTC+08:00"
         ]
     },
     {
@@ -2392,16 +2480,41 @@
             "es": "Hungría",
             "fr": "Hongrie",
             "ja": "ハンガリー",
-            "it": "Ungheria"
+            "it": "Ungheria",
+            "hu": "Magyarország"
         },
         "name": "Hungary",
         "alpha2Code": "HU",
         "capital": "Budapest",
         "region": "Europe",
-        "population": 9823000,
+        "population": 9749763,
         "area": 93028.0,
         "timezones": [
             "UTC+01:00"
+        ]
+    },
+    {
+        "translations": {
+            "br": "Hong Kong",
+            "pt": "Hong Kong",
+            "nl": "Hongkong",
+            "hr": "Hong Kong",
+            "fa": "هنگ‌کنگ",
+            "de": "Hong Kong",
+            "es": "Hong Kong",
+            "fr": "Hong Kong",
+            "ja": "香港",
+            "it": "Hong Kong",
+            "hu": "Hong Kong"
+        },
+        "name": "Hong Kong",
+        "alpha2Code": "HK",
+        "capital": "City of Victoria",
+        "region": "Asia",
+        "population": 7481800,
+        "area": 1104.0,
+        "timezones": [
+            "UTC+08:00"
         ]
     },
     {
@@ -2415,13 +2528,14 @@
             "es": "Islandia",
             "fr": "Islande",
             "ja": "アイスランド",
-            "it": "Islanda"
+            "it": "Islanda",
+            "hu": "Izland"
         },
         "name": "Iceland",
         "alpha2Code": "IS",
         "capital": "Reykjavík",
         "region": "Europe",
-        "population": 334300,
+        "population": 366425,
         "area": 103000.0,
         "timezones": [
             "UTC"
@@ -2438,13 +2552,14 @@
             "es": "India",
             "fr": "Inde",
             "ja": "インド",
-            "it": "India"
+            "it": "India",
+            "hu": "India"
         },
         "name": "India",
         "alpha2Code": "IN",
         "capital": "New Delhi",
         "region": "Asia",
-        "population": 1295210000,
+        "population": 1380004385,
         "area": 3287590.0,
         "timezones": [
             "UTC+05:30"
@@ -2461,13 +2576,14 @@
             "es": "Indonesia",
             "fr": "Indonésie",
             "ja": "インドネシア",
-            "it": "Indonesia"
+            "it": "Indonesia",
+            "hu": "Indonézia"
         },
         "name": "Indonesia",
         "alpha2Code": "ID",
         "capital": "Jakarta",
         "region": "Asia",
-        "population": 258705000,
+        "population": 273523621,
         "area": 1904569.0,
         "timezones": [
             "UTC+07:00",
@@ -2486,13 +2602,14 @@
             "es": "Costa de Marfil",
             "fr": "Côte d'Ivoire",
             "ja": "コートジボワール",
-            "it": "Costa D'Avorio"
+            "it": "Costa D'Avorio",
+            "hu": "Elefántcsontpart"
         },
-        "name": "Côte d'Ivoire",
+        "name": "Ivory Coast",
         "alpha2Code": "CI",
         "capital": "Yamoussoukro",
         "region": "Africa",
-        "population": 22671331,
+        "population": 26378275,
         "area": 322463.0,
         "timezones": [
             "UTC"
@@ -2508,13 +2625,15 @@
             "de": "Iran",
             "es": "Iran",
             "fr": "Iran",
-            "ja": "イラン・イスラム共和国"
+            "ja": "イラン・イスラム共和国",
+            "it": "Iran (Islamic Republic of)",
+            "hu": "Irán"
         },
         "name": "Iran (Islamic Republic of)",
         "alpha2Code": "IR",
         "capital": "Tehran",
         "region": "Asia",
-        "population": 79369900,
+        "population": 83992953,
         "area": 1648195.0,
         "timezones": [
             "UTC+03:30"
@@ -2531,13 +2650,14 @@
             "es": "Irak",
             "fr": "Irak",
             "ja": "イラク",
-            "it": "Iraq"
+            "it": "Iraq",
+            "hu": "Irak"
         },
         "name": "Iraq",
         "alpha2Code": "IQ",
         "capital": "Baghdad",
         "region": "Asia",
-        "population": 37883543,
+        "population": 40222503,
         "area": 438317.0,
         "timezones": [
             "UTC+03:00"
@@ -2554,13 +2674,14 @@
             "es": "Irlanda",
             "fr": "Irlande",
             "ja": "アイルランド",
-            "it": "Irlanda"
+            "it": "Irlanda",
+            "hu": "Írország"
         },
         "name": "Ireland",
         "alpha2Code": "IE",
         "capital": "Dublin",
         "region": "Europe",
-        "population": 6378000,
+        "population": 4994724,
         "area": 70273.0,
         "timezones": [
             "UTC"
@@ -2577,13 +2698,14 @@
             "es": "Isla de Man",
             "fr": "Île de Man",
             "ja": "マン島",
-            "it": "Isola di Man"
+            "it": "Isola di Man",
+            "hu": "Man"
         },
         "name": "Isle of Man",
         "alpha2Code": "IM",
         "capital": "Douglas",
         "region": "Europe",
-        "population": 84497,
+        "population": 85032,
         "area": 572.0,
         "timezones": [
             "UTC+00:00"
@@ -2600,13 +2722,14 @@
             "es": "Israel",
             "fr": "Israël",
             "ja": "イスラエル",
-            "it": "Israele"
+            "it": "Israele",
+            "hu": "Izrael"
         },
         "name": "Israel",
         "alpha2Code": "IL",
         "capital": "Jerusalem",
         "region": "Asia",
-        "population": 8527400,
+        "population": 9216900,
         "area": 20770.0,
         "timezones": [
             "UTC+02:00"
@@ -2623,13 +2746,14 @@
             "es": "Italia",
             "fr": "Italie",
             "ja": "イタリア",
-            "it": "Italia"
+            "it": "Italia",
+            "hu": "Olaszország"
         },
         "name": "Italy",
         "alpha2Code": "IT",
         "capital": "Rome",
         "region": "Europe",
-        "population": 60665551,
+        "population": 59554023,
         "area": 301336.0,
         "timezones": [
             "UTC+01:00"
@@ -2646,13 +2770,14 @@
             "es": "Jamaica",
             "fr": "Jamaïque",
             "ja": "ジャマイカ",
-            "it": "Giamaica"
+            "it": "Giamaica",
+            "hu": "Jamaica"
         },
         "name": "Jamaica",
         "alpha2Code": "JM",
         "capital": "Kingston",
         "region": "Americas",
-        "population": 2723246,
+        "population": 2961161,
         "area": 10991.0,
         "timezones": [
             "UTC-05:00"
@@ -2669,13 +2794,14 @@
             "es": "Japón",
             "fr": "Japon",
             "ja": "日本",
-            "it": "Giappone"
+            "it": "Giappone",
+            "hu": "Japán"
         },
         "name": "Japan",
         "alpha2Code": "JP",
         "capital": "Tokyo",
         "region": "Asia",
-        "population": 126960000,
+        "population": 125836021,
         "area": 377930.0,
         "timezones": [
             "UTC+09:00"
@@ -2692,7 +2818,8 @@
             "es": "Jersey",
             "fr": "Jersey",
             "ja": "ジャージー",
-            "it": "Isola di Jersey"
+            "it": "Isola di Jersey",
+            "hu": "Jersey"
         },
         "name": "Jersey",
         "alpha2Code": "JE",
@@ -2715,13 +2842,14 @@
             "es": "Jordania",
             "fr": "Jordanie",
             "ja": "ヨルダン",
-            "it": "Giordania"
+            "it": "Giordania",
+            "hu": "Jordánia"
         },
         "name": "Jordan",
         "alpha2Code": "JO",
         "capital": "Amman",
         "region": "Asia",
-        "population": 9531712,
+        "population": 10203140,
         "area": 89342.0,
         "timezones": [
             "UTC+03:00"
@@ -2738,13 +2866,14 @@
             "es": "Kazajistán",
             "fr": "Kazakhstan",
             "ja": "カザフスタン",
-            "it": "Kazakistan"
+            "it": "Kazakistan",
+            "hu": "Kazahsztán"
         },
         "name": "Kazakhstan",
         "alpha2Code": "KZ",
-        "capital": "Astana",
+        "capital": "Nur-Sultan",
         "region": "Asia",
-        "population": 17753200,
+        "population": 18754440,
         "area": 2724900.0,
         "timezones": [
             "UTC+05:00",
@@ -2762,13 +2891,14 @@
             "es": "Kenia",
             "fr": "Kenya",
             "ja": "ケニア",
-            "it": "Kenya"
+            "it": "Kenya",
+            "hu": "Kenya"
         },
         "name": "Kenya",
         "alpha2Code": "KE",
         "capital": "Nairobi",
         "region": "Africa",
-        "population": 47251000,
+        "population": 53771300,
         "area": 580367.0,
         "timezones": [
             "UTC+03:00"
@@ -2785,13 +2915,14 @@
             "es": "Kiribati",
             "fr": "Kiribati",
             "ja": "キリバス",
-            "it": "Kiribati"
+            "it": "Kiribati",
+            "hu": "Kiribati"
         },
         "name": "Kiribati",
         "alpha2Code": "KI",
         "capital": "South Tarawa",
         "region": "Oceania",
-        "population": 113400,
+        "population": 119446,
         "area": 811.0,
         "timezones": [
             "UTC+12:00",
@@ -2810,13 +2941,14 @@
             "es": "Kuwait",
             "fr": "Koweït",
             "ja": "クウェート",
-            "it": "Kuwait"
+            "it": "Kuwait",
+            "hu": "Kuvait"
         },
         "name": "Kuwait",
         "alpha2Code": "KW",
         "capital": "Kuwait City",
         "region": "Asia",
-        "population": 4183658,
+        "population": 4270563,
         "area": 17818.0,
         "timezones": [
             "UTC+03:00"
@@ -2833,13 +2965,14 @@
             "es": "Kirguizistán",
             "fr": "Kirghizistan",
             "ja": "キルギス",
-            "it": "Kirghizistan"
+            "it": "Kirghizistan",
+            "hu": "Kirgizisztán"
         },
         "name": "Kyrgyzstan",
         "alpha2Code": "KG",
         "capital": "Bishkek",
         "region": "Asia",
-        "population": 6047800,
+        "population": 6591600,
         "area": 199951.0,
         "timezones": [
             "UTC+06:00"
@@ -2856,13 +2989,14 @@
             "es": "Laos",
             "fr": "Laos",
             "ja": "ラオス人民民主共和国",
-            "it": "Laos"
+            "it": "Laos",
+            "hu": "Laosz"
         },
         "name": "Lao People's Democratic Republic",
         "alpha2Code": "LA",
         "capital": "Vientiane",
         "region": "Asia",
-        "population": 6492400,
+        "population": 7275556,
         "area": 236800.0,
         "timezones": [
             "UTC+07:00"
@@ -2879,13 +3013,14 @@
             "es": "Letonia",
             "fr": "Lettonie",
             "ja": "ラトビア",
-            "it": "Lettonia"
+            "it": "Lettonia",
+            "hu": "Lettország"
         },
         "name": "Latvia",
         "alpha2Code": "LV",
         "capital": "Riga",
         "region": "Europe",
-        "population": 1961600,
+        "population": 1901548,
         "area": 64559.0,
         "timezones": [
             "UTC+02:00"
@@ -2902,13 +3037,14 @@
             "es": "Líbano",
             "fr": "Liban",
             "ja": "レバノン",
-            "it": "Libano"
+            "it": "Libano",
+            "hu": "Libanon"
         },
         "name": "Lebanon",
         "alpha2Code": "LB",
         "capital": "Beirut",
         "region": "Asia",
-        "population": 5988000,
+        "population": 6825442,
         "area": 10452.0,
         "timezones": [
             "UTC+02:00"
@@ -2925,13 +3061,14 @@
             "es": "Lesotho",
             "fr": "Lesotho",
             "ja": "レソト",
-            "it": "Lesotho"
+            "it": "Lesotho",
+            "hu": "Lesotho"
         },
         "name": "Lesotho",
         "alpha2Code": "LS",
         "capital": "Maseru",
         "region": "Africa",
-        "population": 1894194,
+        "population": 2142252,
         "area": 30355.0,
         "timezones": [
             "UTC+02:00"
@@ -2948,13 +3085,14 @@
             "es": "Liberia",
             "fr": "Liberia",
             "ja": "リベリア",
-            "it": "Liberia"
+            "it": "Liberia",
+            "hu": "Libéria"
         },
         "name": "Liberia",
         "alpha2Code": "LR",
         "capital": "Monrovia",
         "region": "Africa",
-        "population": 4615000,
+        "population": 5057677,
         "area": 111369.0,
         "timezones": [
             "UTC"
@@ -2971,13 +3109,14 @@
             "es": "Libia",
             "fr": "Libye",
             "ja": "リビア",
-            "it": "Libia"
+            "it": "Libia",
+            "hu": "Líbia"
         },
         "name": "Libya",
         "alpha2Code": "LY",
         "capital": "Tripoli",
         "region": "Africa",
-        "population": 6385000,
+        "population": 6871287,
         "area": 1759540.0,
         "timezones": [
             "UTC+01:00"
@@ -2994,13 +3133,14 @@
             "es": "Liechtenstein",
             "fr": "Liechtenstein",
             "ja": "リヒテンシュタイン",
-            "it": "Liechtenstein"
+            "it": "Liechtenstein",
+            "hu": "Liechtenstein"
         },
         "name": "Liechtenstein",
         "alpha2Code": "LI",
         "capital": "Vaduz",
         "region": "Europe",
-        "population": 37623,
+        "population": 38137,
         "area": 160.0,
         "timezones": [
             "UTC+01:00"
@@ -3017,13 +3157,14 @@
             "es": "Lituania",
             "fr": "Lituanie",
             "ja": "リトアニア",
-            "it": "Lituania"
+            "it": "Lituania",
+            "hu": "Litvánia"
         },
         "name": "Lithuania",
         "alpha2Code": "LT",
         "capital": "Vilnius",
         "region": "Europe",
-        "population": 2872294,
+        "population": 2794700,
         "area": 65300.0,
         "timezones": [
             "UTC+02:00"
@@ -3040,13 +3181,14 @@
             "es": "Luxemburgo",
             "fr": "Luxembourg",
             "ja": "ルクセンブルク",
-            "it": "Lussemburgo"
+            "it": "Lussemburgo",
+            "hu": "Luxemburg"
         },
         "name": "Luxembourg",
         "alpha2Code": "LU",
         "capital": "Luxembourg",
         "region": "Europe",
-        "population": 576200,
+        "population": 632275,
         "area": 2586.0,
         "timezones": [
             "UTC+01:00"
@@ -3063,13 +3205,14 @@
             "es": "Macao",
             "fr": "Macao",
             "ja": "マカオ",
-            "it": "Macao"
+            "it": "Macao",
+            "hu": "Makaó"
         },
         "name": "Macao",
         "alpha2Code": "MO",
         "capital": "",
         "region": "Asia",
-        "population": 649100,
+        "population": 649342,
         "area": 30.0,
         "timezones": [
             "UTC+08:00"
@@ -3086,13 +3229,14 @@
             "es": "Macedonia",
             "fr": "Macédoine",
             "ja": "マケドニア旧ユーゴスラビア共和国",
-            "it": "Macedonia"
+            "it": "Macedonia",
+            "hu": "Macedónia"
         },
-        "name": "Macedonia (the former Yugoslav Republic of)",
+        "name": "North Macedonia",
         "alpha2Code": "MK",
         "capital": "Skopje",
         "region": "Europe",
-        "population": 2058539,
+        "population": 2083380,
         "area": 25713.0,
         "timezones": [
             "UTC+01:00"
@@ -3109,13 +3253,14 @@
             "es": "Madagascar",
             "fr": "Madagascar",
             "ja": "マダガスカル",
-            "it": "Madagascar"
+            "it": "Madagascar",
+            "hu": "Madagaszkár"
         },
         "name": "Madagascar",
         "alpha2Code": "MG",
         "capital": "Antananarivo",
         "region": "Africa",
-        "population": 22434363,
+        "population": 27691019,
         "area": 587041.0,
         "timezones": [
             "UTC+03:00"
@@ -3132,13 +3277,14 @@
             "es": "Malawi",
             "fr": "Malawi",
             "ja": "マラウイ",
-            "it": "Malawi"
+            "it": "Malawi",
+            "hu": "Malawi"
         },
         "name": "Malawi",
         "alpha2Code": "MW",
         "capital": "Lilongwe",
         "region": "Africa",
-        "population": 16832910,
+        "population": 19129955,
         "area": 118484.0,
         "timezones": [
             "UTC+02:00"
@@ -3155,13 +3301,14 @@
             "es": "Malasia",
             "fr": "Malaisie",
             "ja": "マレーシア",
-            "it": "Malesia"
+            "it": "Malesia",
+            "hu": "Malajzia"
         },
         "name": "Malaysia",
         "alpha2Code": "MY",
         "capital": "Kuala Lumpur",
         "region": "Asia",
-        "population": 31405416,
+        "population": 32365998,
         "area": 330803.0,
         "timezones": [
             "UTC+08:00"
@@ -3178,13 +3325,14 @@
             "es": "Maldivas",
             "fr": "Maldives",
             "ja": "モルディブ",
-            "it": "Maldive"
+            "it": "Maldive",
+            "hu": "Maldív-szigetek"
         },
         "name": "Maldives",
         "alpha2Code": "MV",
         "capital": "Malé",
         "region": "Asia",
-        "population": 344023,
+        "population": 540542,
         "area": 300.0,
         "timezones": [
             "UTC+05:00"
@@ -3201,13 +3349,14 @@
             "es": "Mali",
             "fr": "Mali",
             "ja": "マリ",
-            "it": "Mali"
+            "it": "Mali",
+            "hu": "Mali"
         },
         "name": "Mali",
         "alpha2Code": "ML",
         "capital": "Bamako",
         "region": "Africa",
-        "population": 18135000,
+        "population": 20250834,
         "area": 1240192.0,
         "timezones": [
             "UTC"
@@ -3224,13 +3373,14 @@
             "es": "Malta",
             "fr": "Malte",
             "ja": "マルタ",
-            "it": "Malta"
+            "it": "Malta",
+            "hu": "Málta"
         },
         "name": "Malta",
         "alpha2Code": "MT",
         "capital": "Valletta",
         "region": "Europe",
-        "population": 425384,
+        "population": 525285,
         "area": 316.0,
         "timezones": [
             "UTC+01:00"
@@ -3247,13 +3397,14 @@
             "es": "Islas Marshall",
             "fr": "Îles Marshall",
             "ja": "マーシャル諸島",
-            "it": "Isole Marshall"
+            "it": "Isole Marshall",
+            "hu": "Marshall-szigetek"
         },
         "name": "Marshall Islands",
         "alpha2Code": "MH",
         "capital": "Majuro",
         "region": "Oceania",
-        "population": 54880,
+        "population": 59194,
         "area": 181.0,
         "timezones": [
             "UTC+12:00"
@@ -3270,7 +3421,8 @@
             "es": "Martinica",
             "fr": "Martinique",
             "ja": "マルティニーク",
-            "it": "Martinica"
+            "it": "Martinica",
+            "hu": "Martinique"
         },
         "name": "Martinique",
         "alpha2Code": "MQ",
@@ -3292,13 +3444,14 @@
             "es": "Mauritania",
             "fr": "Mauritanie",
             "ja": "モーリタニア",
-            "it": "Mauritania"
+            "it": "Mauritania",
+            "hu": "Mauritánia"
         },
         "name": "Mauritania",
         "alpha2Code": "MR",
         "capital": "Nouakchott",
         "region": "Africa",
-        "population": 3718678,
+        "population": 4649660,
         "area": 1030700.0,
         "timezones": [
             "UTC"
@@ -3315,13 +3468,14 @@
             "es": "Mauricio",
             "fr": "Île Maurice",
             "ja": "モーリシャス",
-            "it": "Mauritius"
+            "it": "Mauritius",
+            "hu": "Mauritius"
         },
         "name": "Mauritius",
         "alpha2Code": "MU",
         "capital": "Port Louis",
         "region": "Africa",
-        "population": 1262879,
+        "population": 1265740,
         "area": 2040.0,
         "timezones": [
             "UTC+04:00"
@@ -3338,7 +3492,8 @@
             "es": "Mayotte",
             "fr": "Mayotte",
             "ja": "マヨット",
-            "it": "Mayotte"
+            "it": "Mayotte",
+            "hu": "Mayotte"
         },
         "name": "Mayotte",
         "alpha2Code": "YT",
@@ -3360,13 +3515,14 @@
             "es": "México",
             "fr": "Mexique",
             "ja": "メキシコ",
-            "it": "Messico"
+            "it": "Messico",
+            "hu": "Mexikó"
         },
         "name": "Mexico",
         "alpha2Code": "MX",
         "capital": "Mexico City",
         "region": "Americas",
-        "population": 122273473,
+        "population": 128932753,
         "area": 1964375.0,
         "timezones": [
             "UTC-08:00",
@@ -3385,13 +3541,14 @@
             "es": "Micronesia",
             "fr": "Micronésie",
             "ja": "ミクロネシア連邦",
-            "it": "Micronesia"
+            "it": "Micronesia",
+            "hu": "Mikronézia"
         },
         "name": "Micronesia (Federated States of)",
         "alpha2Code": "FM",
         "capital": "Palikir",
         "region": "Oceania",
-        "population": 102800,
+        "population": 115021,
         "area": 702.0,
         "timezones": [
             "UTC+10:00",
@@ -3409,13 +3566,14 @@
             "es": "Moldavia",
             "fr": "Moldavie",
             "ja": "モルドバ共和国",
-            "it": "Moldavia"
+            "it": "Moldavia",
+            "hu": "Moldova"
         },
         "name": "Moldova (Republic of)",
         "alpha2Code": "MD",
         "capital": "Chișinău",
         "region": "Europe",
-        "population": 3553100,
+        "population": 2617820,
         "area": 33846.0,
         "timezones": [
             "UTC+02:00"
@@ -3432,13 +3590,14 @@
             "es": "Mónaco",
             "fr": "Monaco",
             "ja": "モナコ",
-            "it": "Principato di Monaco"
+            "it": "Principato di Monaco",
+            "hu": "Monaco"
         },
         "name": "Monaco",
         "alpha2Code": "MC",
         "capital": "Monaco",
         "region": "Europe",
-        "population": 38400,
+        "population": 39244,
         "area": 2.02,
         "timezones": [
             "UTC+01:00"
@@ -3455,13 +3614,14 @@
             "es": "Mongolia",
             "fr": "Mongolie",
             "ja": "モンゴル",
-            "it": "Mongolia"
+            "it": "Mongolia",
+            "hu": "Mongólia"
         },
         "name": "Mongolia",
         "alpha2Code": "MN",
         "capital": "Ulan Bator",
         "region": "Asia",
-        "population": 3093100,
+        "population": 3278292,
         "area": 1564110.0,
         "timezones": [
             "UTC+07:00",
@@ -3479,13 +3639,14 @@
             "es": "Montenegro",
             "fr": "Monténégro",
             "ja": "モンテネグロ",
-            "it": "Montenegro"
+            "it": "Montenegro",
+            "hu": "Montenegró"
         },
         "name": "Montenegro",
         "alpha2Code": "ME",
         "capital": "Podgorica",
         "region": "Europe",
-        "population": 621810,
+        "population": 621718,
         "area": 13812.0,
         "timezones": [
             "UTC+01:00"
@@ -3502,7 +3663,8 @@
             "es": "Montserrat",
             "fr": "Montserrat",
             "ja": "モントセラト",
-            "it": "Montserrat"
+            "it": "Montserrat",
+            "hu": "Montserrat"
         },
         "name": "Montserrat",
         "alpha2Code": "MS",
@@ -3520,18 +3682,19 @@
             "pt": "Marrocos",
             "nl": "Marokko",
             "hr": "Maroko",
-            "fa": "مراکش",
+            "fa": "المغرب",
             "de": "Marokko",
             "es": "Marruecos",
             "fr": "Maroc",
             "ja": "モロッコ",
-            "it": "Marocco"
+            "it": "Marocco",
+            "hu": "Marokkó"
         },
         "name": "Morocco",
         "alpha2Code": "MA",
         "capital": "Rabat",
         "region": "Africa",
-        "population": 33337529,
+        "population": 36910558,
         "area": 446550.0,
         "timezones": [
             "UTC"
@@ -3548,13 +3711,14 @@
             "es": "Mozambique",
             "fr": "Mozambique",
             "ja": "モザンビーク",
-            "it": "Mozambico"
+            "it": "Mozambico",
+            "hu": "Mozambik"
         },
         "name": "Mozambique",
         "alpha2Code": "MZ",
         "capital": "Maputo",
         "region": "Africa",
-        "population": 26423700,
+        "population": 31255435,
         "area": 801590.0,
         "timezones": [
             "UTC+02:00"
@@ -3571,13 +3735,14 @@
             "es": "Myanmar",
             "fr": "Myanmar",
             "ja": "ミャンマー",
-            "it": "Birmania"
+            "it": "Birmania",
+            "hu": "Mianmar"
         },
         "name": "Myanmar",
         "alpha2Code": "MM",
         "capital": "Naypyidaw",
         "region": "Asia",
-        "population": 51419420,
+        "population": 54409794,
         "area": 676578.0,
         "timezones": [
             "UTC+06:30"
@@ -3594,13 +3759,14 @@
             "es": "Namibia",
             "fr": "Namibie",
             "ja": "ナミビア",
-            "it": "Namibia"
+            "it": "Namibia",
+            "hu": "Namíbia"
         },
         "name": "Namibia",
         "alpha2Code": "NA",
         "capital": "Windhoek",
         "region": "Africa",
-        "population": 2324388,
+        "population": 2540916,
         "area": 825615.0,
         "timezones": [
             "UTC+01:00"
@@ -3617,13 +3783,14 @@
             "es": "Nauru",
             "fr": "Nauru",
             "ja": "ナウル",
-            "it": "Nauru"
+            "it": "Nauru",
+            "hu": "Nauru"
         },
         "name": "Nauru",
         "alpha2Code": "NR",
         "capital": "Yaren",
         "region": "Oceania",
-        "population": 10084,
+        "population": 10834,
         "area": 21.0,
         "timezones": [
             "UTC+12:00"
@@ -3640,13 +3807,14 @@
             "es": "Nepal",
             "fr": "Népal",
             "ja": "ネパール",
-            "it": "Nepal"
+            "it": "Nepal",
+            "hu": "Nepál"
         },
         "name": "Nepal",
         "alpha2Code": "NP",
         "capital": "Kathmandu",
         "region": "Asia",
-        "population": 28431500,
+        "population": 29136808,
         "area": 147181.0,
         "timezones": [
             "UTC+05:45"
@@ -3663,13 +3831,14 @@
             "es": "Países Bajos",
             "fr": "Pays-Bas",
             "ja": "オランダ",
-            "it": "Paesi Bassi"
+            "it": "Paesi Bassi",
+            "hu": "Hollandia"
         },
         "name": "Netherlands",
         "alpha2Code": "NL",
         "capital": "Amsterdam",
         "region": "Europe",
-        "population": 17019800,
+        "population": 17441139,
         "area": 41850.0,
         "timezones": [
             "UTC-04:00",
@@ -3687,13 +3856,14 @@
             "es": "Nueva Caledonia",
             "fr": "Nouvelle-Calédonie",
             "ja": "ニューカレドニア",
-            "it": "Nuova Caledonia"
+            "it": "Nuova Caledonia",
+            "hu": "Új-Kaledónia"
         },
         "name": "New Caledonia",
         "alpha2Code": "NC",
         "capital": "Nouméa",
         "region": "Oceania",
-        "population": 268767,
+        "population": 271960,
         "area": 18575.0,
         "timezones": [
             "UTC+11:00"
@@ -3710,13 +3880,14 @@
             "es": "Nueva Zelanda",
             "fr": "Nouvelle-Zélande",
             "ja": "ニュージーランド",
-            "it": "Nuova Zelanda"
+            "it": "Nuova Zelanda",
+            "hu": "Új-Zéland"
         },
         "name": "New Zealand",
         "alpha2Code": "NZ",
         "capital": "Wellington",
         "region": "Oceania",
-        "population": 4697854,
+        "population": 5084300,
         "area": 270467.0,
         "timezones": [
             "UTC-11:00",
@@ -3737,13 +3908,14 @@
             "es": "Nicaragua",
             "fr": "Nicaragua",
             "ja": "ニカラグア",
-            "it": "Nicaragua"
+            "it": "Nicaragua",
+            "hu": "Nicaragua"
         },
         "name": "Nicaragua",
         "alpha2Code": "NI",
         "capital": "Managua",
         "region": "Americas",
-        "population": 6262703,
+        "population": 6624554,
         "area": 130373.0,
         "timezones": [
             "UTC-06:00"
@@ -3760,13 +3932,14 @@
             "es": "Níger",
             "fr": "Niger",
             "ja": "ニジェール",
-            "it": "Niger"
+            "it": "Niger",
+            "hu": "Niger"
         },
         "name": "Niger",
         "alpha2Code": "NE",
         "capital": "Niamey",
         "region": "Africa",
-        "population": 20715000,
+        "population": 24206636,
         "area": 1267000.0,
         "timezones": [
             "UTC+01:00"
@@ -3783,13 +3956,14 @@
             "es": "Nigeria",
             "fr": "Nigéria",
             "ja": "ナイジェリア",
-            "it": "Nigeria"
+            "it": "Nigeria",
+            "hu": "Nigéria"
         },
         "name": "Nigeria",
         "alpha2Code": "NG",
         "capital": "Abuja",
         "region": "Africa",
-        "population": 186988000,
+        "population": 206139587,
         "area": 923768.0,
         "timezones": [
             "UTC+01:00"
@@ -3806,7 +3980,8 @@
             "es": "Niue",
             "fr": "Niue",
             "ja": "ニウエ",
-            "it": "Niue"
+            "it": "Niue",
+            "hu": "Niue"
         },
         "name": "Niue",
         "alpha2Code": "NU",
@@ -3829,7 +4004,8 @@
             "es": "Isla de Norfolk",
             "fr": "Île de Norfolk",
             "ja": "ノーフォーク島",
-            "it": "Isola Norfolk"
+            "it": "Isola Norfolk",
+            "hu": "Norfolk-sziget"
         },
         "name": "Norfolk Island",
         "alpha2Code": "NF",
@@ -3852,13 +4028,14 @@
             "es": "Corea del Norte",
             "fr": "Corée du Nord",
             "ja": "朝鮮民主主義人民共和国",
-            "it": "Corea del Nord"
+            "it": "Corea del Nord",
+            "hu": "Észak-Korea"
         },
         "name": "Korea (Democratic People's Republic of)",
         "alpha2Code": "KP",
         "capital": "Pyongyang",
         "region": "Asia",
-        "population": 25281000,
+        "population": 25778815,
         "area": 120538.0,
         "timezones": [
             "UTC+09:00"
@@ -3875,13 +4052,14 @@
             "es": "Islas Marianas del Norte",
             "fr": "Îles Mariannes du Nord",
             "ja": "北マリアナ諸島",
-            "it": "Isole Marianne Settentrionali"
+            "it": "Isole Marianne Settentrionali",
+            "hu": "Északi-Mariana-szigetek"
         },
         "name": "Northern Mariana Islands",
         "alpha2Code": "MP",
         "capital": "Saipan",
         "region": "Oceania",
-        "population": 56940,
+        "population": 57557,
         "area": 464.0,
         "timezones": [
             "UTC+10:00"
@@ -3898,13 +4076,14 @@
             "es": "Noruega",
             "fr": "Norvège",
             "ja": "ノルウェー",
-            "it": "Norvegia"
+            "it": "Norvegia",
+            "hu": "Norvégia"
         },
         "name": "Norway",
         "alpha2Code": "NO",
         "capital": "Oslo",
         "region": "Europe",
-        "population": 5223256,
+        "population": 5379475,
         "area": 323802.0,
         "timezones": [
             "UTC+01:00"
@@ -3921,13 +4100,14 @@
             "es": "Omán",
             "fr": "Oman",
             "ja": "オマーン",
-            "it": "oman"
+            "it": "oman",
+            "hu": "Omán"
         },
         "name": "Oman",
         "alpha2Code": "OM",
         "capital": "Muscat",
         "region": "Asia",
-        "population": 4420133,
+        "population": 5106622,
         "area": 309500.0,
         "timezones": [
             "UTC+04:00"
@@ -3944,13 +4124,14 @@
             "es": "Pakistán",
             "fr": "Pakistan",
             "ja": "パキスタン",
-            "it": "Pakistan"
+            "it": "Pakistan",
+            "hu": "Pakisztán"
         },
         "name": "Pakistan",
         "alpha2Code": "PK",
         "capital": "Islamabad",
         "region": "Asia",
-        "population": 194125062,
+        "population": 220892331,
         "area": 881912.0,
         "timezones": [
             "UTC+05:00"
@@ -3967,13 +4148,14 @@
             "es": "Palau",
             "fr": "Palaos",
             "ja": "パラオ",
-            "it": "Palau"
+            "it": "Palau",
+            "hu": "Palau"
         },
         "name": "Palau",
         "alpha2Code": "PW",
         "capital": "Ngerulmud",
         "region": "Oceania",
-        "population": 17950,
+        "population": 18092,
         "area": 459.0,
         "timezones": [
             "UTC+09:00"
@@ -3990,13 +4172,14 @@
             "es": "Palestina",
             "fr": "Palestine",
             "ja": "パレスチナ",
-            "it": "Palestina"
+            "it": "Palestina",
+            "hu": "Palesztina"
         },
         "name": "Palestine, State of",
         "alpha2Code": "PS",
         "capital": "Ramallah",
         "region": "Asia",
-        "population": 4682467,
+        "population": 4803269,
         "timezones": [
             "UTC+02:00"
         ]
@@ -4012,13 +4195,14 @@
             "es": "Panamá",
             "fr": "Panama",
             "ja": "パナマ",
-            "it": "Panama"
+            "it": "Panama",
+            "hu": "Panama"
         },
         "name": "Panama",
         "alpha2Code": "PA",
         "capital": "Panama City",
         "region": "Americas",
-        "population": 3814672,
+        "population": 4314768,
         "area": 75417.0,
         "timezones": [
             "UTC-05:00"
@@ -4035,13 +4219,14 @@
             "es": "Papúa Nueva Guinea",
             "fr": "Papouasie-Nouvelle-Guinée",
             "ja": "パプアニューギニア",
-            "it": "Papua Nuova Guinea"
+            "it": "Papua Nuova Guinea",
+            "hu": "Pápua Új-Guinea"
         },
         "name": "Papua New Guinea",
         "alpha2Code": "PG",
         "capital": "Port Moresby",
         "region": "Oceania",
-        "population": 8083700,
+        "population": 8947027,
         "area": 462840.0,
         "timezones": [
             "UTC+10:00"
@@ -4058,13 +4243,14 @@
             "es": "Paraguay",
             "fr": "Paraguay",
             "ja": "パラグアイ",
-            "it": "Paraguay"
+            "it": "Paraguay",
+            "hu": "Paraguay"
         },
         "name": "Paraguay",
         "alpha2Code": "PY",
         "capital": "Asunción",
         "region": "Americas",
-        "population": 6854536,
+        "population": 7132530,
         "area": 406752.0,
         "timezones": [
             "UTC-04:00"
@@ -4081,13 +4267,14 @@
             "es": "Perú",
             "fr": "Pérou",
             "ja": "ペルー",
-            "it": "Perù"
+            "it": "Perù",
+            "hu": "Peru"
         },
         "name": "Peru",
         "alpha2Code": "PE",
         "capital": "Lima",
         "region": "Americas",
-        "population": 31488700,
+        "population": 32971846,
         "area": 1285216.0,
         "timezones": [
             "UTC-05:00"
@@ -4104,13 +4291,14 @@
             "es": "Filipinas",
             "fr": "Philippines",
             "ja": "フィリピン",
-            "it": "Filippine"
+            "it": "Filippine",
+            "hu": "Fülöp-szigetek"
         },
         "name": "Philippines",
         "alpha2Code": "PH",
         "capital": "Manila",
         "region": "Asia",
-        "population": 103279800,
+        "population": 109581085,
         "area": 342353.0,
         "timezones": [
             "UTC+08:00"
@@ -4127,7 +4315,8 @@
             "es": "Islas Pitcairn",
             "fr": "Îles Pitcairn",
             "ja": "ピトケアン",
-            "it": "Isole Pitcairn"
+            "it": "Isole Pitcairn",
+            "hu": "Pitcairn-szigetek"
         },
         "name": "Pitcairn",
         "alpha2Code": "PN",
@@ -4150,13 +4339,14 @@
             "es": "Polonia",
             "fr": "Pologne",
             "ja": "ポーランド",
-            "it": "Polonia"
+            "it": "Polonia",
+            "hu": "Lengyelország"
         },
         "name": "Poland",
         "alpha2Code": "PL",
         "capital": "Warsaw",
         "region": "Europe",
-        "population": 38437239,
+        "population": 37950802,
         "area": 312679.0,
         "timezones": [
             "UTC+01:00"
@@ -4173,13 +4363,14 @@
             "es": "Portugal",
             "fr": "Portugal",
             "ja": "ポルトガル",
-            "it": "Portogallo"
+            "it": "Portogallo",
+            "hu": "Portugália"
         },
         "name": "Portugal",
         "alpha2Code": "PT",
         "capital": "Lisbon",
         "region": "Europe",
-        "population": 10374822,
+        "population": 10305564,
         "area": 92090.0,
         "timezones": [
             "UTC-01:00",
@@ -4197,13 +4388,14 @@
             "es": "Puerto Rico",
             "fr": "Porto Rico",
             "ja": "プエルトリコ",
-            "it": "Porto Rico"
+            "it": "Porto Rico",
+            "hu": "Puerto Rico"
         },
         "name": "Puerto Rico",
         "alpha2Code": "PR",
         "capital": "San Juan",
         "region": "Americas",
-        "population": 3474182,
+        "population": 3194034,
         "area": 8870.0,
         "timezones": [
             "UTC-04:00"
@@ -4220,13 +4412,14 @@
             "es": "Catar",
             "fr": "Qatar",
             "ja": "カタール",
-            "it": "Qatar"
+            "it": "Qatar",
+            "hu": "Katar"
         },
         "name": "Qatar",
         "alpha2Code": "QA",
         "capital": "Doha",
         "region": "Asia",
-        "population": 2587564,
+        "population": 2881060,
         "area": 11586.0,
         "timezones": [
             "UTC+03:00"
@@ -4236,15 +4429,21 @@
         "translations": {
             "br": "Kosovo",
             "pt": "Kosovo",
+            "nl": "Republiek van Kosovo",
             "hr": "Kosovo",
             "fa": "کوزوو",
-            "es": "Kosovo"
+            "de": "Republic of Kosovo",
+            "es": "Kosovo",
+            "fr": "Kosovo",
+            "ja": "Republic of Kosovo",
+            "it": "Republic of Kosovo",
+            "hu": "Koszovó"
         },
         "name": "Republic of Kosovo",
         "alpha2Code": "XK",
         "capital": "Pristina",
         "region": "Europe",
-        "population": 1733842,
+        "population": 1775378,
         "area": 10908.0,
         "timezones": [
             "UTC+01:00"
@@ -4261,7 +4460,8 @@
             "es": "Reunión",
             "fr": "Réunion",
             "ja": "レユニオン",
-            "it": "Riunione"
+            "it": "Riunione",
+            "hu": "Réunion"
         },
         "name": "Réunion",
         "alpha2Code": "RE",
@@ -4283,13 +4483,14 @@
             "es": "Rumania",
             "fr": "Roumanie",
             "ja": "ルーマニア",
-            "it": "Romania"
+            "it": "Romania",
+            "hu": "Románia"
         },
         "name": "Romania",
         "alpha2Code": "RO",
         "capital": "Bucharest",
         "region": "Europe",
-        "population": 19861408,
+        "population": 19286123,
         "area": 238391.0,
         "timezones": [
             "UTC+02:00"
@@ -4306,13 +4507,14 @@
             "es": "Rusia",
             "fr": "Russie",
             "ja": "ロシア連邦",
-            "it": "Russia"
+            "it": "Russia",
+            "hu": "Oroszország"
         },
         "name": "Russian Federation",
         "alpha2Code": "RU",
         "capital": "Moscow",
         "region": "Europe",
-        "population": 146599183,
+        "population": 144104080,
         "area": 17124442.0,
         "timezones": [
             "UTC+03:00",
@@ -4337,13 +4539,14 @@
             "es": "Ruanda",
             "fr": "Rwanda",
             "ja": "ルワンダ",
-            "it": "Ruanda"
+            "it": "Ruanda",
+            "hu": "Ruanda"
         },
         "name": "Rwanda",
         "alpha2Code": "RW",
         "capital": "Kigali",
         "region": "Africa",
-        "population": 11553188,
+        "population": 12952209,
         "area": 26338.0,
         "timezones": [
             "UTC+02:00"
@@ -4360,7 +4563,8 @@
             "es": "San Bartolomé",
             "fr": "Saint-Barthélemy",
             "ja": "サン・バルテルミー",
-            "it": "Antille Francesi"
+            "it": "Antille Francesi",
+            "hu": "Saint-Barthélemy"
         },
         "name": "Saint Barthélemy",
         "alpha2Code": "BL",
@@ -4383,7 +4587,8 @@
             "es": "Santa Helena",
             "fr": "Sainte-Hélène",
             "ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
-            "it": "Sant'Elena"
+            "it": "Sant'Elena",
+            "hu": "Szent Ilona"
         },
         "name": "Saint Helena, Ascension and Tristan da Cunha",
         "alpha2Code": "SH",
@@ -4405,13 +4610,14 @@
             "es": "San Cristóbal y Nieves",
             "fr": "Saint-Christophe-et-Niévès",
             "ja": "セントクリストファー・ネイビス",
-            "it": "Saint Kitts e Nevis"
+            "it": "Saint Kitts e Nevis",
+            "hu": "Saint Kitts és Nevis"
         },
         "name": "Saint Kitts and Nevis",
         "alpha2Code": "KN",
         "capital": "Basseterre",
         "region": "Americas",
-        "population": 46204,
+        "population": 53192,
         "area": 261.0,
         "timezones": [
             "UTC-04:00"
@@ -4428,13 +4634,14 @@
             "es": "Santa Lucía",
             "fr": "Saint-Lucie",
             "ja": "セントルシア",
-            "it": "Santa Lucia"
+            "it": "Santa Lucia",
+            "hu": "Saint Lucia"
         },
         "name": "Saint Lucia",
         "alpha2Code": "LC",
         "capital": "Castries",
         "region": "Americas",
-        "population": 186000,
+        "population": 183629,
         "area": 616.0,
         "timezones": [
             "UTC-04:00"
@@ -4451,13 +4658,14 @@
             "es": "Saint Martin",
             "fr": "Saint-Martin",
             "ja": "サン・マルタン（フランス領）",
-            "it": "Saint Martin"
+            "it": "Saint Martin",
+            "hu": "Saint-Martin"
         },
         "name": "Saint Martin (French part)",
         "alpha2Code": "MF",
         "capital": "Marigot",
         "region": "Americas",
-        "population": 36979,
+        "population": 38659,
         "area": 53.0,
         "timezones": [
             "UTC-04:00"
@@ -4474,7 +4682,8 @@
             "es": "San Pedro y Miquelón",
             "fr": "Saint-Pierre-et-Miquelon",
             "ja": "サンピエール島・ミクロン島",
-            "it": "Saint-Pierre e Miquelon"
+            "it": "Saint-Pierre e Miquelon",
+            "hu": "Saint-Pierre és Miquelon"
         },
         "name": "Saint Pierre and Miquelon",
         "alpha2Code": "PM",
@@ -4497,13 +4706,14 @@
             "es": "San Vicente y Granadinas",
             "fr": "Saint-Vincent-et-les-Grenadines",
             "ja": "セントビンセントおよびグレナディーン諸島",
-            "it": "Saint Vincent e Grenadine"
+            "it": "Saint Vincent e Grenadine",
+            "hu": "Saint Vincent és a Grenadine-szigetek"
         },
         "name": "Saint Vincent and the Grenadines",
         "alpha2Code": "VC",
         "capital": "Kingstown",
         "region": "Americas",
-        "population": 109991,
+        "population": 110947,
         "area": 389.0,
         "timezones": [
             "UTC-04:00"
@@ -4520,13 +4730,14 @@
             "es": "Samoa",
             "fr": "Samoa",
             "ja": "サモア",
-            "it": "Samoa"
+            "it": "Samoa",
+            "hu": "Szamoa"
         },
         "name": "Samoa",
         "alpha2Code": "WS",
         "capital": "Apia",
         "region": "Oceania",
-        "population": 194899,
+        "population": 198410,
         "area": 2842.0,
         "timezones": [
             "UTC+13:00"
@@ -4543,13 +4754,14 @@
             "es": "San Marino",
             "fr": "Saint-Marin",
             "ja": "サンマリノ",
-            "it": "San Marino"
+            "it": "San Marino",
+            "hu": "San Marino"
         },
         "name": "San Marino",
         "alpha2Code": "SM",
         "capital": "City of San Marino",
         "region": "Europe",
-        "population": 33005,
+        "population": 33938,
         "area": 61.0,
         "timezones": [
             "UTC+01:00"
@@ -4566,13 +4778,14 @@
             "es": "Santo Tomé y Príncipe",
             "fr": "Sao Tomé-et-Principe",
             "ja": "サントメ・プリンシペ",
-            "it": "São Tomé e Príncipe"
+            "it": "São Tomé e Príncipe",
+            "hu": "São Tomé és Príncipe"
         },
         "name": "Sao Tome and Principe",
         "alpha2Code": "ST",
         "capital": "São Tomé",
         "region": "Africa",
-        "population": 187356,
+        "population": 219161,
         "area": 964.0,
         "timezones": [
             "UTC"
@@ -4589,13 +4802,14 @@
             "es": "Arabia Saudí",
             "fr": "Arabie Saoudite",
             "ja": "サウジアラビア",
-            "it": "Arabia Saudita"
+            "it": "Arabia Saudita",
+            "hu": "Szaúd-Arábia"
         },
         "name": "Saudi Arabia",
         "alpha2Code": "SA",
         "capital": "Riyadh",
         "region": "Asia",
-        "population": 32248200,
+        "population": 34813867,
         "area": 2149690.0,
         "timezones": [
             "UTC+03:00"
@@ -4612,13 +4826,14 @@
             "es": "Senegal",
             "fr": "Sénégal",
             "ja": "セネガル",
-            "it": "Senegal"
+            "it": "Senegal",
+            "hu": "Szenegál"
         },
         "name": "Senegal",
         "alpha2Code": "SN",
         "capital": "Dakar",
         "region": "Africa",
-        "population": 14799859,
+        "population": 16743930,
         "area": 196722.0,
         "timezones": [
             "UTC"
@@ -4635,13 +4850,14 @@
             "es": "Serbia",
             "fr": "Serbie",
             "ja": "セルビア",
-            "it": "Serbia"
+            "it": "Serbia",
+            "hu": "Szerbia"
         },
         "name": "Serbia",
         "alpha2Code": "RS",
         "capital": "Belgrade",
         "region": "Europe",
-        "population": 7076372,
+        "population": 6908224,
         "area": 88361.0,
         "timezones": [
             "UTC+01:00"
@@ -4658,13 +4874,14 @@
             "es": "Seychelles",
             "fr": "Seychelles",
             "ja": "セーシェル",
-            "it": "Seychelles"
+            "it": "Seychelles",
+            "hu": "Seychelle-szigetek"
         },
         "name": "Seychelles",
         "alpha2Code": "SC",
         "capital": "Victoria",
         "region": "Africa",
-        "population": 91400,
+        "population": 98462,
         "area": 452.0,
         "timezones": [
             "UTC+04:00"
@@ -4681,13 +4898,14 @@
             "es": "Sierra Leone",
             "fr": "Sierra Leone",
             "ja": "シエラレオネ",
-            "it": "Sierra Leone"
+            "it": "Sierra Leone",
+            "hu": "Sierra Leone"
         },
         "name": "Sierra Leone",
         "alpha2Code": "SL",
         "capital": "Freetown",
         "region": "Africa",
-        "population": 7075641,
+        "population": 7976985,
         "area": 71740.0,
         "timezones": [
             "UTC"
@@ -4704,13 +4922,14 @@
             "es": "Singapur",
             "fr": "Singapour",
             "ja": "シンガポール",
-            "it": "Singapore"
+            "it": "Singapore",
+            "hu": "Szingapúr"
         },
         "name": "Singapore",
         "alpha2Code": "SG",
         "capital": "Singapore",
         "region": "Asia",
-        "population": 5535000,
+        "population": 5685807,
         "area": 710.0,
         "timezones": [
             "UTC+08:00"
@@ -4721,16 +4940,20 @@
             "br": "Sint Maarten",
             "pt": "São Martinho",
             "nl": "Sint Maarten",
+            "hr": "Sint Maarten (Dutch part)",
             "fa": "سینت مارتن",
             "de": "Sint Maarten (niederl. Teil)",
+            "es": "Sint Maarten (Dutch part)",
             "fr": "Saint Martin (partie néerlandaise)",
-            "it": "Saint Martin (parte olandese)"
+            "ja": "Sint Maarten (Dutch part)",
+            "it": "Saint Martin (parte olandese)",
+            "hu": "Sint Maarten"
         },
         "name": "Sint Maarten (Dutch part)",
         "alpha2Code": "SX",
         "capital": "Philipsburg",
         "region": "Americas",
-        "population": 38247,
+        "population": 40812,
         "area": 34.0,
         "timezones": [
             "UTC-04:00"
@@ -4747,13 +4970,14 @@
             "es": "República Eslovaca",
             "fr": "Slovaquie",
             "ja": "スロバキア",
-            "it": "Slovacchia"
+            "it": "Slovacchia",
+            "hu": "Szlovákia"
         },
         "name": "Slovakia",
         "alpha2Code": "SK",
         "capital": "Bratislava",
         "region": "Europe",
-        "population": 5426252,
+        "population": 5458827,
         "area": 49037.0,
         "timezones": [
             "UTC+01:00"
@@ -4770,13 +4994,14 @@
             "es": "Eslovenia",
             "fr": "Slovénie",
             "ja": "スロベニア",
-            "it": "Slovenia"
+            "it": "Slovenia",
+            "hu": "Szlovénia"
         },
         "name": "Slovenia",
         "alpha2Code": "SI",
         "capital": "Ljubljana",
         "region": "Europe",
-        "population": 2064188,
+        "population": 2100126,
         "area": 20273.0,
         "timezones": [
             "UTC+01:00"
@@ -4793,13 +5018,14 @@
             "es": "Islas Salomón",
             "fr": "Îles Salomon",
             "ja": "ソロモン諸島",
-            "it": "Isole Salomone"
+            "it": "Isole Salomone",
+            "hu": "Salamon-szigetek"
         },
         "name": "Solomon Islands",
         "alpha2Code": "SB",
         "capital": "Honiara",
         "region": "Oceania",
-        "population": 642000,
+        "population": 686878,
         "area": 28896.0,
         "timezones": [
             "UTC+11:00"
@@ -4816,13 +5042,14 @@
             "es": "Somalia",
             "fr": "Somalie",
             "ja": "ソマリア",
-            "it": "Somalia"
+            "it": "Somalia",
+            "hu": "Szomália"
         },
         "name": "Somalia",
         "alpha2Code": "SO",
         "capital": "Mogadishu",
         "region": "Africa",
-        "population": 11079000,
+        "population": 15893219,
         "area": 637657.0,
         "timezones": [
             "UTC+03:00"
@@ -4839,13 +5066,14 @@
             "es": "República de Sudáfrica",
             "fr": "Afrique du Sud",
             "ja": "南アフリカ",
-            "it": "Sud Africa"
+            "it": "Sud Africa",
+            "hu": "Dél-afrikai Köztársaság"
         },
         "name": "South Africa",
         "alpha2Code": "ZA",
         "capital": "Pretoria",
         "region": "Africa",
-        "population": 55653654,
+        "population": 59308690,
         "area": 1221037.0,
         "timezones": [
             "UTC+02:00"
@@ -4862,7 +5090,8 @@
             "es": "Islas Georgias del Sur y Sandwich del Sur",
             "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
             "ja": "サウスジョージア・サウスサンドウィッチ諸島",
-            "it": "Georgia del Sud e Isole Sandwich Meridionali"
+            "it": "Georgia del Sud e Isole Sandwich Meridionali",
+            "hu": "Déli-Georgia és Déli-Sandwich-szigetek"
         },
         "name": "South Georgia and the South Sandwich Islands",
         "alpha2Code": "GS",
@@ -4884,39 +5113,17 @@
             "es": "Corea del Sur",
             "fr": "Corée du Sud",
             "ja": "大韓民国",
-            "it": "Corea del Sud"
+            "it": "Corea del Sud",
+            "hu": "Dél-Korea"
         },
         "name": "Korea (Republic of)",
         "alpha2Code": "KR",
         "capital": "Seoul",
         "region": "Asia",
-        "population": 50801405,
+        "population": 51780579,
         "area": 100210.0,
         "timezones": [
             "UTC+09:00"
-        ]
-    },
-    {
-        "translations": {
-            "br": "Sudão do Sul",
-            "pt": "Sudão do Sul",
-            "nl": "Zuid-Soedan",
-            "hr": "Južni Sudan",
-            "fa": "سودان جنوبی",
-            "de": "Südsudan",
-            "es": "Sudán del Sur",
-            "fr": "Soudan du Sud",
-            "ja": "南スーダン",
-            "it": "Sudan del sud"
-        },
-        "name": "South Sudan",
-        "alpha2Code": "SS",
-        "capital": "Juba",
-        "region": "Africa",
-        "population": 12131000,
-        "area": 619745.0,
-        "timezones": [
-            "UTC+03:00"
         ]
     },
     {
@@ -4930,13 +5137,14 @@
             "es": "España",
             "fr": "Espagne",
             "ja": "スペイン",
-            "it": "Spagna"
+            "it": "Spagna",
+            "hu": "Spanyolország"
         },
         "name": "Spain",
         "alpha2Code": "ES",
         "capital": "Madrid",
         "region": "Europe",
-        "population": 46438422,
+        "population": 47351567,
         "area": 505992.0,
         "timezones": [
             "UTC",
@@ -4954,13 +5162,14 @@
             "es": "Sri Lanka",
             "fr": "Sri Lanka",
             "ja": "スリランカ",
-            "it": "Sri Lanka"
+            "it": "Sri Lanka",
+            "hu": "Srí Lanka"
         },
         "name": "Sri Lanka",
         "alpha2Code": "LK",
-        "capital": "Colombo",
+        "capital": "Sri Jayawardenepura Kotte",
         "region": "Asia",
-        "population": 20966000,
+        "population": 21919000,
         "area": 65610.0,
         "timezones": [
             "UTC+05:30"
@@ -4977,14 +5186,39 @@
             "es": "Sudán",
             "fr": "Soudan",
             "ja": "スーダン",
-            "it": "Sudan"
+            "it": "Sudan",
+            "hu": "Szudán"
         },
         "name": "Sudan",
         "alpha2Code": "SD",
         "capital": "Khartoum",
         "region": "Africa",
-        "population": 39598700,
+        "population": 43849269,
         "area": 1886068.0,
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "translations": {
+            "br": "Sudão do Sul",
+            "pt": "Sudão do Sul",
+            "nl": "Zuid-Soedan",
+            "hr": "Južni Sudan",
+            "fa": "سودان جنوبی",
+            "de": "Südsudan",
+            "es": "Sudán del Sur",
+            "fr": "Soudan du Sud",
+            "ja": "南スーダン",
+            "it": "Sudan del sud",
+            "hu": "Dél-Szudán"
+        },
+        "name": "South Sudan",
+        "alpha2Code": "SS",
+        "capital": "Juba",
+        "region": "Africa",
+        "population": 11193729,
+        "area": 619745.0,
         "timezones": [
             "UTC+03:00"
         ]
@@ -5000,13 +5234,14 @@
             "es": "Surinam",
             "fr": "Surinam",
             "ja": "スリナム",
-            "it": "Suriname"
+            "it": "Suriname",
+            "hu": "Suriname"
         },
         "name": "Suriname",
         "alpha2Code": "SR",
         "capital": "Paramaribo",
         "region": "Americas",
-        "population": 541638,
+        "population": 586634,
         "area": 163820.0,
         "timezones": [
             "UTC-03:00"
@@ -5023,7 +5258,8 @@
             "es": "Islas Svalbard y Jan Mayen",
             "fr": "Svalbard et Jan Mayen",
             "ja": "スヴァールバル諸島およびヤンマイエン島",
-            "it": "Svalbard e Jan Mayen"
+            "it": "Svalbard e Jan Mayen",
+            "hu": "Spitzbergák és Jan Mayen-szigetek"
         },
         "name": "Svalbard and Jan Mayen",
         "alpha2Code": "SJ",
@@ -5045,13 +5281,14 @@
             "es": "Suazilandia",
             "fr": "Swaziland",
             "ja": "スワジランド",
-            "it": "Swaziland"
+            "it": "Swaziland",
+            "hu": "Szváziföld"
         },
         "name": "Swaziland",
         "alpha2Code": "SZ",
-        "capital": "Lobamba",
+        "capital": "Mbabane",
         "region": "Africa",
-        "population": 1132657,
+        "population": 1160164,
         "area": 17364.0,
         "timezones": [
             "UTC+02:00"
@@ -5068,13 +5305,14 @@
             "es": "Suecia",
             "fr": "Suède",
             "ja": "スウェーデン",
-            "it": "Svezia"
+            "it": "Svezia",
+            "hu": "Svédország"
         },
         "name": "Sweden",
         "alpha2Code": "SE",
         "capital": "Stockholm",
         "region": "Europe",
-        "population": 9894888,
+        "population": 10353442,
         "area": 450295.0,
         "timezones": [
             "UTC+01:00"
@@ -5091,13 +5329,14 @@
             "es": "Suiza",
             "fr": "Suisse",
             "ja": "スイス",
-            "it": "Svizzera"
+            "it": "Svizzera",
+            "hu": "Svájc"
         },
         "name": "Switzerland",
         "alpha2Code": "CH",
         "capital": "Bern",
         "region": "Europe",
-        "population": 8341600,
+        "population": 8636896,
         "area": 41284.0,
         "timezones": [
             "UTC+01:00"
@@ -5114,13 +5353,14 @@
             "es": "Siria",
             "fr": "Syrie",
             "ja": "シリア・アラブ共和国",
-            "it": "Siria"
+            "it": "Siria",
+            "hu": "Szíria"
         },
         "name": "Syrian Arab Republic",
         "alpha2Code": "SY",
         "capital": "Damascus",
         "region": "Asia",
-        "population": 18564000,
+        "population": 17500657,
         "area": 185180.0,
         "timezones": [
             "UTC+02:00"
@@ -5137,7 +5377,8 @@
             "es": "Taiwán",
             "fr": "Taïwan",
             "ja": "台湾（中華民国）",
-            "it": "Taiwan"
+            "it": "Taiwan",
+            "hu": "Tajvan"
         },
         "name": "Taiwan",
         "alpha2Code": "TW",
@@ -5160,13 +5401,14 @@
             "es": "Tayikistán",
             "fr": "Tadjikistan",
             "ja": "タジキスタン",
-            "it": "Tagikistan"
+            "it": "Tagikistan",
+            "hu": "Tádzsikisztán"
         },
         "name": "Tajikistan",
         "alpha2Code": "TJ",
         "capital": "Dushanbe",
         "region": "Asia",
-        "population": 8593600,
+        "population": 9537642,
         "area": 143100.0,
         "timezones": [
             "UTC+05:00"
@@ -5183,13 +5425,14 @@
             "es": "Tanzania",
             "fr": "Tanzanie",
             "ja": "タンザニア",
-            "it": "Tanzania"
+            "it": "Tanzania",
+            "hu": "Tanzánia"
         },
         "name": "Tanzania, United Republic of",
         "alpha2Code": "TZ",
         "capital": "Dodoma",
         "region": "Africa",
-        "population": 55155000,
+        "population": 59734213,
         "area": 945087.0,
         "timezones": [
             "UTC+03:00"
@@ -5206,13 +5449,14 @@
             "es": "Tailandia",
             "fr": "Thaïlande",
             "ja": "タイ",
-            "it": "Tailandia"
+            "it": "Tailandia",
+            "hu": "Thaiföld"
         },
         "name": "Thailand",
         "alpha2Code": "TH",
         "capital": "Bangkok",
         "region": "Asia",
-        "population": 65327652,
+        "population": 69799978,
         "area": 513120.0,
         "timezones": [
             "UTC+07:00"
@@ -5229,13 +5473,14 @@
             "es": "Timor Oriental",
             "fr": "Timor oriental",
             "ja": "東ティモール",
-            "it": "Timor Est"
+            "it": "Timor Est",
+            "hu": "Kelet-Timor"
         },
         "name": "Timor-Leste",
         "alpha2Code": "TL",
         "capital": "Dili",
         "region": "Asia",
-        "population": 1167242,
+        "population": 1318442,
         "area": 14874.0,
         "timezones": [
             "UTC+09:00"
@@ -5252,13 +5497,14 @@
             "es": "Togo",
             "fr": "Togo",
             "ja": "トーゴ",
-            "it": "Togo"
+            "it": "Togo",
+            "hu": "Togo"
         },
         "name": "Togo",
         "alpha2Code": "TG",
         "capital": "Lomé",
         "region": "Africa",
-        "population": 7143000,
+        "population": 8278737,
         "area": 56785.0,
         "timezones": [
             "UTC"
@@ -5275,7 +5521,8 @@
             "es": "Islas Tokelau",
             "fr": "Tokelau",
             "ja": "トケラウ",
-            "it": "Isole Tokelau"
+            "it": "Isole Tokelau",
+            "hu": "Tokelau-szigetek"
         },
         "name": "Tokelau",
         "alpha2Code": "TK",
@@ -5298,13 +5545,14 @@
             "es": "Tonga",
             "fr": "Tonga",
             "ja": "トンガ",
-            "it": "Tonga"
+            "it": "Tonga",
+            "hu": "Tonga"
         },
         "name": "Tonga",
         "alpha2Code": "TO",
         "capital": "Nuku'alofa",
         "region": "Oceania",
-        "population": 103252,
+        "population": 105697,
         "area": 747.0,
         "timezones": [
             "UTC+13:00"
@@ -5321,13 +5569,14 @@
             "es": "Trinidad y Tobago",
             "fr": "Trinité et Tobago",
             "ja": "トリニダード・トバゴ",
-            "it": "Trinidad e Tobago"
+            "it": "Trinidad e Tobago",
+            "hu": "Trinidad és Tobago"
         },
         "name": "Trinidad and Tobago",
         "alpha2Code": "TT",
         "capital": "Port of Spain",
         "region": "Americas",
-        "population": 1349667,
+        "population": 1399491,
         "area": 5130.0,
         "timezones": [
             "UTC-04:00"
@@ -5344,13 +5593,14 @@
             "es": "Túnez",
             "fr": "Tunisie",
             "ja": "チュニジア",
-            "it": "Tunisia"
+            "it": "Tunisia",
+            "hu": "Tunézia"
         },
         "name": "Tunisia",
         "alpha2Code": "TN",
         "capital": "Tunis",
         "region": "Africa",
-        "population": 11154400,
+        "population": 11818618,
         "area": 163610.0,
         "timezones": [
             "UTC+01:00"
@@ -5367,13 +5617,14 @@
             "es": "Turquía",
             "fr": "Turquie",
             "ja": "トルコ",
-            "it": "Turchia"
+            "it": "Turchia",
+            "hu": "Törökország"
         },
         "name": "Turkey",
         "alpha2Code": "TR",
         "capital": "Ankara",
         "region": "Asia",
-        "population": 78741053,
+        "population": 84339067,
         "area": 783562.0,
         "timezones": [
             "UTC+03:00"
@@ -5390,13 +5641,14 @@
             "es": "Turkmenistán",
             "fr": "Turkménistan",
             "ja": "トルクメニスタン",
-            "it": "Turkmenistan"
+            "it": "Turkmenistan",
+            "hu": "Türkmenisztán"
         },
         "name": "Turkmenistan",
         "alpha2Code": "TM",
         "capital": "Ashgabat",
         "region": "Asia",
-        "population": 4751120,
+        "population": 6031187,
         "area": 488100.0,
         "timezones": [
             "UTC+05:00"
@@ -5413,13 +5665,14 @@
             "es": "Islas Turks y Caicos",
             "fr": "Îles Turques-et-Caïques",
             "ja": "タークス・カイコス諸島",
-            "it": "Isole Turks e Caicos"
+            "it": "Isole Turks e Caicos",
+            "hu": "Turks- és Caicos-szigetek"
         },
         "name": "Turks and Caicos Islands",
         "alpha2Code": "TC",
         "capital": "Cockburn Town",
         "region": "Americas",
-        "population": 31458,
+        "population": 38718,
         "area": 948.0,
         "timezones": [
             "UTC-04:00"
@@ -5436,13 +5689,14 @@
             "es": "Tuvalu",
             "fr": "Tuvalu",
             "ja": "ツバル",
-            "it": "Tuvalu"
+            "it": "Tuvalu",
+            "hu": "Tuvalu"
         },
         "name": "Tuvalu",
         "alpha2Code": "TV",
         "capital": "Funafuti",
         "region": "Oceania",
-        "population": 10640,
+        "population": 11792,
         "area": 26.0,
         "timezones": [
             "UTC+12:00"
@@ -5459,13 +5713,14 @@
             "es": "Uganda",
             "fr": "Uganda",
             "ja": "ウガンダ",
-            "it": "Uganda"
+            "it": "Uganda",
+            "hu": "Uganda"
         },
         "name": "Uganda",
         "alpha2Code": "UG",
         "capital": "Kampala",
         "region": "Africa",
-        "population": 33860700,
+        "population": 45741000,
         "area": 241550.0,
         "timezones": [
             "UTC+03:00"
@@ -5482,13 +5737,14 @@
             "es": "Ucrania",
             "fr": "Ukraine",
             "ja": "ウクライナ",
-            "it": "Ucraina"
+            "it": "Ucraina",
+            "hu": "Ukrajna"
         },
         "name": "Ukraine",
         "alpha2Code": "UA",
-        "capital": "Kiev",
+        "capital": "Kyiv",
         "region": "Europe",
-        "population": 42692393,
+        "population": 44134693,
         "area": 603700.0,
         "timezones": [
             "UTC+02:00"
@@ -5505,13 +5761,14 @@
             "es": "Emiratos Árabes Unidos",
             "fr": "Émirats arabes unis",
             "ja": "アラブ首長国連邦",
-            "it": "Emirati Arabi Uniti"
+            "it": "Emirati Arabi Uniti",
+            "hu": "Egyesült Arab Emírségek"
         },
         "name": "United Arab Emirates",
         "alpha2Code": "AE",
         "capital": "Abu Dhabi",
         "region": "Asia",
-        "population": 9856000,
+        "population": 9890400,
         "area": 83600.0,
         "timezones": [
             "UTC+04"
@@ -5528,13 +5785,14 @@
             "es": "Reino Unido",
             "fr": "Royaume-Uni",
             "ja": "イギリス",
-            "it": "Regno Unito"
+            "it": "Regno Unito",
+            "hu": "Nagy-Britannia"
         },
         "name": "United Kingdom of Great Britain and Northern Ireland",
         "alpha2Code": "GB",
         "capital": "London",
         "region": "Europe",
-        "population": 65110000,
+        "population": 67215293,
         "area": 242900.0,
         "timezones": [
             "UTC-08:00",
@@ -5559,13 +5817,14 @@
             "es": "Estados Unidos",
             "fr": "États-Unis",
             "ja": "アメリカ合衆国",
-            "it": "Stati Uniti D'America"
+            "it": "Stati Uniti D'America",
+            "hu": "Amerikai Egyesült Államok"
         },
         "name": "United States of America",
         "alpha2Code": "US",
         "capital": "Washington, D.C.",
         "region": "Americas",
-        "population": 323947000,
+        "population": 329484123,
         "area": 9629091.0,
         "timezones": [
             "UTC-12:00",
@@ -5592,13 +5851,14 @@
             "es": "Uruguay",
             "fr": "Uruguay",
             "ja": "ウルグアイ",
-            "it": "Uruguay"
+            "it": "Uruguay",
+            "hu": "Uruguay"
         },
         "name": "Uruguay",
         "alpha2Code": "UY",
         "capital": "Montevideo",
         "region": "Americas",
-        "population": 3480222,
+        "population": 3473727,
         "area": 181034.0,
         "timezones": [
             "UTC-03:00"
@@ -5615,13 +5875,14 @@
             "es": "Uzbekistán",
             "fr": "Ouzbékistan",
             "ja": "ウズベキスタン",
-            "it": "Uzbekistan"
+            "it": "Uzbekistan",
+            "hu": "Üzbegisztán"
         },
         "name": "Uzbekistan",
         "alpha2Code": "UZ",
         "capital": "Tashkent",
         "region": "Asia",
-        "population": 31576400,
+        "population": 34232050,
         "area": 447400.0,
         "timezones": [
             "UTC+05:00"
@@ -5638,13 +5899,14 @@
             "es": "Vanuatu",
             "fr": "Vanuatu",
             "ja": "バヌアツ",
-            "it": "Vanuatu"
+            "it": "Vanuatu",
+            "hu": "Vanuatu"
         },
         "name": "Vanuatu",
         "alpha2Code": "VU",
         "capital": "Port Vila",
         "region": "Oceania",
-        "population": 277500,
+        "population": 307150,
         "area": 12189.0,
         "timezones": [
             "UTC+11:00"
@@ -5661,13 +5923,14 @@
             "es": "Venezuela",
             "fr": "Venezuela",
             "ja": "ベネズエラ・ボリバル共和国",
-            "it": "Venezuela"
+            "it": "Venezuela",
+            "hu": "Venezuela"
         },
         "name": "Venezuela (Bolivarian Republic of)",
         "alpha2Code": "VE",
         "capital": "Caracas",
         "region": "Americas",
-        "population": 31028700,
+        "population": 28435943,
         "area": 916445.0,
         "timezones": [
             "UTC-04:00"
@@ -5684,13 +5947,14 @@
             "es": "Vietnam",
             "fr": "Viêt Nam",
             "ja": "ベトナム",
-            "it": "Vietnam"
+            "it": "Vietnam",
+            "hu": "Vietnám"
         },
-        "name": "Viet Nam",
+        "name": "Vietnam",
         "alpha2Code": "VN",
         "capital": "Hanoi",
         "region": "Asia",
-        "population": 92700000,
+        "population": 97338583,
         "area": 331212.0,
         "timezones": [
             "UTC+07:00"
@@ -5707,7 +5971,8 @@
             "es": "Wallis y Futuna",
             "fr": "Wallis-et-Futuna",
             "ja": "ウォリス・フツナ",
-            "it": "Wallis e Futuna"
+            "it": "Wallis e Futuna",
+            "hu": "Wallis és Futuna"
         },
         "name": "Wallis and Futuna",
         "alpha2Code": "WF",
@@ -5730,7 +5995,8 @@
             "es": "Sahara Occidental",
             "fr": "Sahara Occidental",
             "ja": "西サハラ",
-            "it": "Sahara Occidentale"
+            "it": "Sahara Occidentale",
+            "hu": "Nyugat-Szahara"
         },
         "name": "Western Sahara",
         "alpha2Code": "EH",
@@ -5753,13 +6019,14 @@
             "es": "Yemen",
             "fr": "Yémen",
             "ja": "イエメン",
-            "it": "Yemen"
+            "it": "Yemen",
+            "hu": "Jemen"
         },
         "name": "Yemen",
         "alpha2Code": "YE",
         "capital": "Sana'a",
         "region": "Asia",
-        "population": 27478000,
+        "population": 29825968,
         "area": 527968.0,
         "timezones": [
             "UTC+03:00"
@@ -5776,14 +6043,15 @@
             "es": "Zambia",
             "fr": "Zambie",
             "ja": "ザンビア",
-            "it": "Zambia"
+            "it": "Zambia",
+            "hu": "Zambia"
         },
         "name": "Zambia",
         "alpha2Code": "ZM",
         "capital": "Lusaka",
         "region": "Africa",
-        "population": 15933883,
-        "area": 752612.0,
+        "population": 18383956,
+        "area": 752618.0,
         "timezones": [
             "UTC+02:00"
         ]
@@ -5799,13 +6067,14 @@
             "es": "Zimbabue",
             "fr": "Zimbabwe",
             "ja": "ジンバブエ",
-            "it": "Zimbabwe"
+            "it": "Zimbabwe",
+            "hu": "Zimbabwe"
         },
         "name": "Zimbabwe",
         "alpha2Code": "ZW",
         "capital": "Harare",
         "region": "Africa",
-        "population": 14240168,
+        "population": 14862927,
         "area": 390757.0,
         "timezones": [
             "UTC+02:00"
